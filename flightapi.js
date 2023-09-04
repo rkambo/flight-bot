@@ -41,12 +41,12 @@ async function getBearerToken() {
 async function getFlightOffers(origin, destination, startDate, endDate) {
   const bearerToken = await getBearerToken();
   const reqBody = {
-    currencyCode: "USD",
+    currencyCode: "CAD",
     originDestinations: [
       {
         id: "1",
-        originLocationCode: "NYC",
-        destinationLocationCode: "MAD",
+        originLocationCode: "YYZ",
+        destinationLocationCode: "SEA",
         departureDateTimeRange: {
           date: "2023-11-01",
           time: "10:00:00",
@@ -65,7 +65,7 @@ async function getFlightOffers(origin, destination, startDate, endDate) {
       flightFilters: {
         cabinRestrictions: [
           {
-            cabin: "BUSINESS",
+            cabin: "ECONOMY",
             coverage: "MOST_SEGMENTS",
             originDestinationIds: ["1"],
           },
@@ -84,12 +84,43 @@ async function getFlightOffers(origin, destination, startDate, endDate) {
       },
     });
     checkStatus(response);
-    const data = await response.json();
-    console.log(data);
+    return response.json();
   } catch (error) {
     const errorBody = await error.response.text();
     console.error(`Error body: ${errorBody}`);
   }
 }
 
-getFlightOffers();
+const parseData = (response) => {
+  const offers = [];
+  for (const offer of response.data) {
+    const pkg = {};
+    pkg.price = offer.price.grandTotal;
+    for (const itinerary of offer.itineraries) {
+      pkg.duration = itinerary.duration;
+      pkg.price = pkg.segments = [];
+      for (const segmentRaw of itinerary.segments) {
+        const seg = {};
+        seg.departure = {};
+        seg.arrival = {};
+
+        seg.departure.originAirport = segmentRaw.departure.iataCode;
+        seg.departure.departureTime = segmentRaw.departure.at;
+
+        seg.arrival.destAirport = segmentRaw.arrival.iataCode;
+        seg.arrival.arrivalTime = segmentRaw.arrival.at;
+
+        seg.carrierCode = segmentRaw.carrierCode;
+        seg.flightNumber = segmentRaw.number;
+        seg.duration = segmentRaw.duration;
+
+        pkg.segments.push(seg);
+      }
+    }
+    offers.push(pkg);
+  }
+  console.log(offers);
+  return "asdf";
+};
+
+parseData(await getFlightOffers());
