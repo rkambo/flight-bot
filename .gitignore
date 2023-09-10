@@ -1,0 +1,6 @@
+## Ignore Modules
+node_modules
+
+## Ignore config
+config.json
+.env

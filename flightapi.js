@@ -38,15 +38,15 @@ async function getBearerToken() {
   }
 }
 
-async function getFlightOffers(origin, destination, startDate, endDate) {
+async function getFlightOffersData(origin, destination) {
   const bearerToken = await getBearerToken();
   const reqBody = {
     currencyCode: "CAD",
     originDestinations: [
       {
         id: "1",
-        originLocationCode: "YYZ",
-        destinationLocationCode: "SEA",
+        originLocationCode: origin,
+        destinationLocationCode: destination,
         departureDateTimeRange: {
           date: "2023-11-01",
           time: "10:00:00",
@@ -119,8 +119,11 @@ const parseData = (response) => {
     }
     offers.push(pkg);
   }
-  console.log(offers);
-  return "asdf";
+  return offers;
 };
 
-parseData(await getFlightOffers());
+export const getFlightOffers = async (origin, destination) => {
+  return parseData(await getFlightOffersData(origin, destination));
+};
+
+// parseData(await getFlightOffers());
