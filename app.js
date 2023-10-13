@@ -1,7 +1,12 @@
 import "dotenv/config";
 import express from "express";
 import { InteractionType, InteractionResponseType } from "discord-interactions";
+import { EmbedBuilder } from "discord.js";
 import { VerifyDiscordRequest } from "./utils.js";
+import { getAirport } from "./airports.js";
+import { getFlightOffers } from "./flightapi.js";
+
+const testFunc = () => {};
 
 // Create an express app
 const app = express();
@@ -28,18 +33,79 @@ app.post("/interactions", async function (req, res) {
    * Handle slash command requests
    * See https://discord.com/developers/docs/interactions/application-commands#slash-commands
    */
+
   if (type === InteractionType.APPLICATION_COMMAND) {
     const { name } = data;
 
     // "test" command
     if (name === "test") {
+      const embedArr = [];
+      const origin = getAirport("Toronto");
+      const dest = getAirport("Seattle");
+
+      const offers = await getFlightOffers(
+        origin.iata,
+        dest.iata,
+        "Dec 14 2023"
+      );
+
+      for (const offer of offers) {
+        const embed = new EmbedBuilder();
+        for (const segment of offer.segments) {
+          embed.addFields(
+            {
+              name: "Origin",
+              value: segment.departure.originAirport,
+            },
+            { name: "Destination", value: segment.arrival.destAirport },
+
+            { name: "Duration", value: segment.duration }
+          );
+        }
+        embed.addFields({ name: "Total Duration", value: offer.duration });
+        embed.addFields({ name: "Price", value: offer.price });
+        embed.setTimestamp();
+
+        embedArr.push(embed);
+      }
+
+      // const exampleEmbed = new EmbedBuilder()
+      //   .setColor(0x0099ff)
+      //   .setTitle("Some title")
+      //   .setURL("https://discord.js.org/")
+      //   .setAuthor({
+      //     name: "Some name",
+      //     iconURL: "https://i.imgur.com/AfFp7pu.png",
+      //     url: "https://discord.js.org",
+      //   })
+      //   .setDescription("Some description here")
+      //   .setThumbnail("https://i.imgur.com/AfFp7pu.png")
+      //   .addFields(
+      //     { name: "Regular field title", value: "Some value here" },
+      //     { name: "\u200B", value: "\u200B" },
+      //     {
+      //       name: "Inline field title",
+      //       value: "Some value here",
+      //       inline: true,
+      //     },
+      //     { name: "Inline field title", value: "Some value here", inline: true }
+      //   )
+      //   .addFields({
+      //     name: "Inline field title",
+      //     value: "Some value here",
+      //     inline: true,
+      //   })
+      //   .setImage("https://i.imgur.com/AfFp7pu.png")
+      //   .setTimestamp()
+      //   .setFooter({
+      //     text: "Some footer text here",
+      //     iconURL: "https://i.imgur.com/AfFp7pu.png",
+      //   });
+
       // Send a message into the channel where command was triggered from
       return res.send({
         type: InteractionResponseType.CHANNEL_MESSAGE_WITH_SOURCE,
-        data: {
-          // Fetches a random emoji to send from a helper function
-          content: "Hi flight bot user!",
-        },
+        data: { embeds: embedArr },
       });
     }
   }

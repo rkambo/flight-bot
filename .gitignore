@@ -4,3 +4,7 @@ node_modules
 ## Ignore config
 config.json
 .env
+
+/discord-example-app-main
+
+test.js

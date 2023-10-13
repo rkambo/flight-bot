@@ -1,0 +1,6707 @@
+[
+  {
+    "name": "Port Moresby Jacksons Intl",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "iata": "POM",
+    "timezone": "10",
+    "dst": "U",
+    "tz": "Pacific/Port_Moresby"
+  },
+  {
+    "name": "Keflavik International Airport",
+    "city": "Keflavik",
+    "country": "Iceland",
+    "iata": "KEF",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Atlantic/Reykjavik"
+  },
+  {
+    "name": "Edmonton Intl",
+    "city": "Edmonton",
+    "country": "Canada",
+    "iata": "YEG",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Edmonton"
+  },
+  {
+    "name": "Iqaluit",
+    "city": "Iqaluit",
+    "country": "Canada",
+    "iata": "YFB",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Halifax Intl",
+    "city": "Halifax",
+    "country": "Canada",
+    "iata": "YHZ",
+    "timezone": "-4",
+    "dst": "A",
+    "tz": "America/Halifax"
+  },
+  {
+    "name": "Kelowna",
+    "city": "Kelowna",
+    "country": "Canada",
+    "iata": "YLW",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Vancouver"
+  },
+  {
+    "name": "Ottawa Macdonald Cartier Intl",
+    "city": "Ottawa",
+    "country": "Canada",
+    "iata": "YOW",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Quebec Jean Lesage Intl",
+    "city": "Quebec",
+    "country": "Canada",
+    "iata": "YQB",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Regina Intl",
+    "city": "Regina",
+    "country": "Canada",
+    "iata": "YQR",
+    "timezone": "-6",
+    "dst": "N",
+    "tz": "America/Regina"
+  },
+  {
+    "name": "Rankin Inlet",
+    "city": "Rankin Inlet",
+    "country": "Canada",
+    "iata": "YRT",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Winnipeg"
+  },
+  {
+    "name": "Pierre Elliott Trudeau Intl",
+    "city": "Montreal",
+    "country": "Canada",
+    "iata": "YUL",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Vancouver Intl",
+    "city": "Vancouver",
+    "country": "Canada",
+    "iata": "YVR",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Vancouver"
+  },
+  {
+    "name": "Winnipeg Intl",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "iata": "YWG",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Winnipeg"
+  },
+  {
+    "name": "Wabush",
+    "city": "Wabush",
+    "country": "Canada",
+    "iata": "YWK",
+    "timezone": "-4",
+    "dst": "A",
+    "tz": "America/Halifax"
+  },
+  {
+    "name": "Saskatoon J G Diefenbaker Intl",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "iata": "YXE",
+    "timezone": "-6",
+    "dst": "N",
+    "tz": "America/Regina"
+  },
+  {
+    "name": "Sioux Lookout",
+    "city": "Sioux Lookout",
+    "country": "Canada",
+    "iata": "YXL",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Winnipeg"
+  },
+  {
+    "name": "Calgary Intl",
+    "city": "Calgary",
+    "country": "Canada",
+    "iata": "YYC",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Edmonton"
+  },
+  {
+    "name": "Goose Bay",
+    "city": "Goose Bay",
+    "country": "Canada",
+    "iata": "YYR",
+    "timezone": "-4",
+    "dst": "A",
+    "tz": "America/Halifax"
+  },
+  {
+    "name": "St Johns Intl",
+    "city": "St. John's",
+    "country": "Canada",
+    "iata": "YYT",
+    "timezone": "-3.5",
+    "dst": "A",
+    "tz": "America/St_Johns"
+  },
+  {
+    "name": "Lester B Pearson Intl",
+    "city": "Toronto",
+    "country": "Canada",
+    "iata": "YYZ",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Yellowknife",
+    "city": "Yellowknife",
+    "country": "Canada",
+    "iata": "YZF",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Edmonton"
+  },
+  {
+    "name": "Sept Iles",
+    "city": "Sept-iles",
+    "country": "Canada",
+    "iata": "YZV",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Houari Boumediene",
+    "city": "Algier",
+    "country": "Algeria",
+    "iata": "ALG",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Algiers"
+  },
+  {
+    "name": "Mohamed Boudiaf Intl",
+    "city": "Constantine",
+    "country": "Algeria",
+    "iata": "CZL",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Algiers"
+  },
+  {
+    "name": "Es Senia",
+    "city": "Oran",
+    "country": "Algeria",
+    "iata": "ORN",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Algiers"
+  },
+  {
+    "name": "Cadjehoun",
+    "city": "Cotonou",
+    "country": "Benin",
+    "iata": "COO",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Porto-Novo"
+  },
+  {
+    "name": "Ouagadougou",
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "iata": "OUA",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Ouagadougou"
+  },
+  {
+    "name": "Kotoka Intl",
+    "city": "Accra",
+    "country": "Ghana",
+    "iata": "ACC",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Accra"
+  },
+  {
+    "name": "Abidjan Felix Houphouet Boigny Intl",
+    "city": "Abidjan",
+    "country": "Cote d'Ivoire",
+    "iata": "ABJ",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Abidjan"
+  },
+  {
+    "name": "Nnamdi Azikiwe Intl",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "iata": "ABV",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Lagos"
+  },
+  {
+    "name": "Murtala Muhammed",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "iata": "LOS",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Lagos"
+  },
+  {
+    "name": "Diori Hamani",
+    "city": "Niamey",
+    "country": "Niger",
+    "iata": "NIM",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Niamey"
+  },
+  {
+    "name": "Habib Bourguiba Intl",
+    "city": "Monastir",
+    "country": "Tunisia",
+    "iata": "MIR",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Africa/Tunis"
+  },
+  {
+    "name": "Carthage",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "iata": "TUN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Africa/Tunis"
+  },
+  {
+    "name": "Zarzis",
+    "city": "Djerba",
+    "country": "Tunisia",
+    "iata": "DJE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Africa/Tunis"
+  },
+  {
+    "name": "Gnassingbe Eyadema Intl",
+    "city": "Lome",
+    "country": "Togo",
+    "iata": "LFW",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Lome"
+  },
+  {
+    "name": "Brussels Natl",
+    "city": "Brussels",
+    "country": "Belgium",
+    "iata": "BRU",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Brussels"
+  },
+  {
+    "name": "Brussels South",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "iata": "CRL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Brussels"
+  },
+  {
+    "name": "Schonefeld",
+    "city": "Berlin",
+    "country": "Germany",
+    "iata": "SXF",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Dresden",
+    "city": "Dresden",
+    "country": "Germany",
+    "iata": "DRS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Frankfurt Main",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "iata": "FRA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Hamburg",
+    "city": "Hamburg",
+    "country": "Germany",
+    "iata": "HAM",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Koln Bonn",
+    "city": "Cologne",
+    "country": "Germany",
+    "iata": "CGN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Dusseldorf",
+    "city": "Duesseldorf",
+    "country": "Germany",
+    "iata": "DUS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Franz Josef Strauss",
+    "city": "Munich",
+    "country": "Germany",
+    "iata": "MUC",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Nurnberg",
+    "city": "Nuernberg",
+    "country": "Germany",
+    "iata": "NUE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Leipzig Halle",
+    "city": "Leipzig",
+    "country": "Germany",
+    "iata": "LEJ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Stuttgart",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "iata": "STR",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Tegel",
+    "city": "Berlin",
+    "country": "Germany",
+    "iata": "TXL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Hannover",
+    "city": "Hannover",
+    "country": "Germany",
+    "iata": "HAJ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Neuenland",
+    "city": "Bremen",
+    "country": "Germany",
+    "iata": "BRE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Frankfurt Hahn",
+    "city": "Hahn",
+    "country": "Germany",
+    "iata": "HHN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Dortmund",
+    "city": "Dortmund",
+    "country": "Germany",
+    "iata": "DTM",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Tallinn",
+    "city": "Tallinn-ulemiste International",
+    "country": "Estonia",
+    "iata": "TLL",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Tallinn"
+  },
+  {
+    "name": "Helsinki Vantaa",
+    "city": "Helsinki",
+    "country": "Finland",
+    "iata": "HEL",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Helsinki"
+  },
+  {
+    "name": "Belfast Intl",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "iata": "BFS",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Belfast City",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "iata": "BHD",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Birmingham",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "iata": "BHX",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Manchester",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "iata": "MAN",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Cardiff",
+    "city": "Cardiff",
+    "country": "United Kingdom",
+    "iata": "CWL",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Bristol",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "iata": "BRS",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Liverpool",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "iata": "LPL",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Luton",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LTN",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Bournemouth",
+    "city": "Bournemouth",
+    "country": "United Kingdom",
+    "iata": "BOH",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Southampton",
+    "city": "Southampton",
+    "country": "United Kingdom",
+    "iata": "SOU",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Guernsey",
+    "city": "Guernsey",
+    "country": "Guernsey",
+    "iata": "GCI",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Guernsey"
+  },
+  {
+    "name": "Jersey",
+    "city": "Jersey",
+    "country": "Jersey",
+    "iata": "JER",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Jersey"
+  },
+  {
+    "name": "Gatwick",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LGW",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "City",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LCY",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Heathrow",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LHR",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Leeds Bradford",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "iata": "LBA",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Newcastle",
+    "city": "Newcastle",
+    "country": "United Kingdom",
+    "iata": "NCL",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Nottingham East Midlands",
+    "city": "East Midlands",
+    "country": "United Kingdom",
+    "iata": "EMA",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Dyce",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "iata": "ABZ",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Glasgow",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "iata": "GLA",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Edinburgh",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "iata": "EDI",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Prestwick",
+    "city": "Prestwick",
+    "country": "United Kingdom",
+    "iata": "PIK",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Stansted",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "STN",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Exeter",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "iata": "EXT",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "iata": "AMS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Eindhoven",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "iata": "EIN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Rotterdam",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "iata": "RTM",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Amsterdam"
+  },
+  {
+    "name": "Cork",
+    "city": "Cork",
+    "country": "Ireland",
+    "iata": "ORK",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Dublin"
+  },
+  {
+    "name": "Dublin",
+    "city": "Dublin",
+    "country": "Ireland",
+    "iata": "DUB",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Dublin"
+  },
+  {
+    "name": "Ireland West Knock",
+    "city": "Connaught",
+    "country": "Ireland",
+    "iata": "NOC",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Dublin"
+  },
+  {
+    "name": "Shannon",
+    "city": "Shannon",
+    "country": "Ireland",
+    "iata": "SNN",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Dublin"
+  },
+  {
+    "name": "Billund",
+    "city": "Billund",
+    "country": "Denmark",
+    "iata": "BLL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Copenhagen"
+  },
+  {
+    "name": "Kastrup",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "iata": "CPH",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Copenhagen"
+  },
+  {
+    "name": "Aalborg",
+    "city": "Aalborg",
+    "country": "Denmark",
+    "iata": "AAL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Copenhagen"
+  },
+  {
+    "name": "Luxembourg",
+    "city": "Luxemburg",
+    "country": "Luxembourg",
+    "iata": "LUX",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Luxembourg"
+  },
+  {
+    "name": "Bodo",
+    "city": "Bodo",
+    "country": "Norway",
+    "iata": "BOO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Flesland",
+    "city": "Bergen",
+    "country": "Norway",
+    "iata": "BGO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Gardermoen",
+    "city": "Oslo",
+    "country": "Norway",
+    "iata": "OSL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Moss",
+    "city": "Rygge",
+    "country": "Norway",
+    "iata": "RYG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Langnes",
+    "city": "Tromso",
+    "country": "Norway",
+    "iata": "TOS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Torp",
+    "city": "Sandefjord",
+    "country": "Norway",
+    "iata": "TRF",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Vaernes",
+    "city": "Trondheim",
+    "country": "Norway",
+    "iata": "TRD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Sola",
+    "city": "Stavanger",
+    "country": "Norway",
+    "iata": "SVG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Oslo"
+  },
+  {
+    "name": "Lech Walesa",
+    "city": "Gdansk",
+    "country": "Poland",
+    "iata": "GDN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "Balice",
+    "city": "Krakow",
+    "country": "Poland",
+    "iata": "KRK",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "Pyrzowice",
+    "city": "Katowice",
+    "country": "Poland",
+    "iata": "KTW",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "Lawica",
+    "city": "Poznan",
+    "country": "Poland",
+    "iata": "POZ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "Okecie",
+    "city": "Warsaw",
+    "country": "Poland",
+    "iata": "WAW",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "Strachowice",
+    "city": "Wroclaw",
+    "country": "Poland",
+    "iata": "WRO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "Landvetter",
+    "city": "Gothenborg",
+    "country": "Sweden",
+    "iata": "GOT",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "Save",
+    "city": "Gothenborg",
+    "country": "Sweden",
+    "iata": "GSE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "Skavsta",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iata": "NYO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "Sturup",
+    "city": "Malmoe",
+    "country": "Sweden",
+    "iata": "MMX",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "Arlanda",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iata": "ARN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "Bromma",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iata": "BMA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "Cape Town Intl",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "iata": "CPT",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Johannesburg"
+  },
+  {
+    "name": "Durban Intl",
+    "city": "Durban",
+    "country": "South Africa",
+    "iata": "DUR",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Johannesburg"
+  },
+  {
+    "name": "Johannesburg Intl",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "iata": "JNB",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Johannesburg"
+  },
+  {
+    "name": "Maya Maya",
+    "city": "Brazzaville",
+    "country": "Congo (Brazzaville)",
+    "iata": "BZV",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Brazzaville"
+  },
+  {
+    "name": "Pointe Noire",
+    "city": "Pointe-noire",
+    "country": "Congo (Brazzaville)",
+    "iata": "PNR",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Brazzaville"
+  },
+  {
+    "name": "Sir Seewoosagur Ramgoolam Intl",
+    "city": "Plaisance",
+    "country": "Mauritius",
+    "iata": "MRU",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Indian/Mauritius"
+  },
+  {
+    "name": "Douala",
+    "city": "Douala",
+    "country": "Cameroon",
+    "iata": "DLA",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Douala"
+  },
+  {
+    "name": "Lusaka Intl",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "iata": "LUN",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Lusaka"
+  },
+  {
+    "name": "Dzaoudzi Pamandzi",
+    "city": "Dzaoudzi",
+    "country": "Mayotte",
+    "iata": "DZA",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Indian/Mayotte"
+  },
+  {
+    "name": "St Denis Gillot",
+    "city": "St.-denis",
+    "country": "Reunion",
+    "iata": "RUN",
+    "timezone": "4",
+    "dst": "U",
+    "tz": "Indian/Reunion"
+  },
+  {
+    "name": "Ivato",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "iata": "TNR",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Indian/Antananarivo"
+  },
+  {
+    "name": "Luanda 4 De Fevereiro",
+    "city": "Luanda",
+    "country": "Angola",
+    "iata": "LAD",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Luanda"
+  },
+  {
+    "name": "Leon M Ba",
+    "city": "Libreville",
+    "country": "Gabon",
+    "iata": "LBV",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Libreville"
+  },
+  {
+    "name": "Maputo",
+    "city": "Maputo",
+    "country": "Mozambique",
+    "iata": "MPM",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Maputo"
+  },
+  {
+    "name": "Harare Intl",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "iata": "HRE",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Harare"
+  },
+  {
+    "name": "Ndjili Intl",
+    "city": "Kinshasa",
+    "country": "Congo (Kinshasa)",
+    "iata": "FIH",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Kinshasa"
+  },
+  {
+    "name": "Senou",
+    "city": "Bamako",
+    "country": "Mali",
+    "iata": "BKO",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Bamako"
+  },
+  {
+    "name": "Fuerteventura",
+    "city": "Fuerteventura",
+    "country": "Spain",
+    "iata": "FUE",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Atlantic/Canary"
+  },
+  {
+    "name": "Gran Canaria",
+    "city": "Gran Canaria",
+    "country": "Spain",
+    "iata": "LPA",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Atlantic/Canary"
+  },
+  {
+    "name": "Lanzarote",
+    "city": "Las Palmas",
+    "country": "Spain",
+    "iata": "ACE",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Atlantic/Canary"
+  },
+  {
+    "name": "Tenerife Sur",
+    "city": "Tenerife",
+    "country": "Spain",
+    "iata": "TFS",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Atlantic/Canary"
+  },
+  {
+    "name": "Tenerife Norte",
+    "city": "Tenerife",
+    "country": "Spain",
+    "iata": "TFN",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Atlantic/Canary"
+  },
+  {
+    "name": "Freetown Lungi",
+    "city": "Freetown",
+    "country": "Sierra Leone",
+    "iata": "FNA",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Freetown"
+  },
+  {
+    "name": "Monrovia Roberts Intl",
+    "city": "Monrovia",
+    "country": "Liberia",
+    "iata": "ROB",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Monrovia"
+  },
+  {
+    "name": "Inezgane",
+    "city": "Agadir",
+    "country": "Morocco",
+    "iata": "AGA",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Casablanca"
+  },
+  {
+    "name": "Saiss",
+    "city": "Fes",
+    "country": "Morocco",
+    "iata": "FEZ",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Casablanca"
+  },
+  {
+    "name": "Mohammed V Intl",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "iata": "CMN",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Casablanca"
+  },
+  {
+    "name": "Menara",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "iata": "RAK",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Casablanca"
+  },
+  {
+    "name": "Ibn Batouta",
+    "city": "Tanger",
+    "country": "Morocco",
+    "iata": "TNG",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Casablanca"
+  },
+  {
+    "name": "Leopold Sedar Senghor Intl",
+    "city": "Dakar",
+    "country": "Senegal",
+    "iata": "DKR",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Dakar"
+  },
+  {
+    "name": "Amilcar Cabral Intl",
+    "city": "Amilcar Cabral",
+    "country": "Cape Verde",
+    "iata": "SID",
+    "timezone": "-1",
+    "dst": "U",
+    "tz": "Atlantic/Cape_Verde"
+  },
+  {
+    "name": "Bole Intl",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "iata": "ADD",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Addis_Ababa"
+  },
+  {
+    "name": "Cairo Intl",
+    "city": "Cairo",
+    "country": "Egypt",
+    "iata": "CAI",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Cairo"
+  },
+  {
+    "name": "Hurghada Intl",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "iata": "HRG",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Cairo"
+  },
+  {
+    "name": "Nairobi Wilson",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "iata": "WIL",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Nairobi"
+  },
+  {
+    "name": "Benina",
+    "city": "Benghazi",
+    "country": "Libya",
+    "iata": "BEN",
+    "timezone": "2",
+    "dst": "N",
+    "tz": "Africa/Tripoli"
+  },
+  {
+    "name": "Tripoli Intl",
+    "city": "Tripoli",
+    "country": "Libya",
+    "iata": "TIP",
+    "timezone": "2",
+    "dst": "N",
+    "tz": "Africa/Tripoli"
+  },
+  {
+    "name": "Kigali Intl",
+    "city": "Kigali",
+    "country": "Rwanda",
+    "iata": "KGL",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Kigali"
+  },
+  {
+    "name": "Khartoum",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "iata": "KRT",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Khartoum"
+  },
+  {
+    "name": "Mwalimu Julius K Nyerere Intl",
+    "city": "Dar Es Salaam",
+    "country": "Tanzania",
+    "iata": "DAR",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Dar_es_Salaam"
+  },
+  {
+    "name": "Kilimanjaro Intl",
+    "city": "Kilimanjaro",
+    "country": "Tanzania",
+    "iata": "JRO",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Dar_es_Salaam"
+  },
+  {
+    "name": "Entebbe Intl",
+    "city": "Entebbe",
+    "country": "Uganda",
+    "iata": "EBB",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Kampala"
+  },
+  {
+    "name": "Tirana Rinas",
+    "city": "Tirana",
+    "country": "Albania",
+    "iata": "TIA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Tirane"
+  },
+  {
+    "name": "Sofia",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "iata": "SOF",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Sofia"
+  },
+  {
+    "name": "Larnaca",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "iata": "LCA",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Asia/Nicosia"
+  },
+  {
+    "name": "Pafos Intl",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "iata": "PFO",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Asia/Nicosia"
+  },
+  {
+    "name": "Dubrovnik",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "iata": "DBV",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Zagreb"
+  },
+  {
+    "name": "Pula",
+    "city": "Pula",
+    "country": "Croatia",
+    "iata": "PUY",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Zagreb"
+  },
+  {
+    "name": "Split",
+    "city": "Split",
+    "country": "Croatia",
+    "iata": "SPU",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Zagreb"
+  },
+  {
+    "name": "Zagreb",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "iata": "ZAG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Zagreb"
+  },
+  {
+    "name": "Zadar",
+    "city": "Zadar",
+    "country": "Croatia",
+    "iata": "ZAD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Zagreb"
+  },
+  {
+    "name": "Alicante",
+    "city": "Alicante",
+    "country": "Spain",
+    "iata": "ALC",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Almeria",
+    "city": "Almeria",
+    "country": "Spain",
+    "iata": "LEI",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Asturias",
+    "city": "Aviles",
+    "country": "Spain",
+    "iata": "OVD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Bilbao",
+    "city": "Bilbao",
+    "country": "Spain",
+    "iata": "BIO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Barcelona",
+    "city": "Barcelona",
+    "country": "Spain",
+    "iata": "BCN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Girona",
+    "city": "Gerona",
+    "country": "Spain",
+    "iata": "GRO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Ibiza",
+    "city": "Ibiza",
+    "country": "Spain",
+    "iata": "IBZ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Jerez",
+    "city": "Jerez",
+    "country": "Spain",
+    "iata": "XRY",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Murcia San Javier",
+    "city": "Murcia",
+    "country": "Spain",
+    "iata": "MJV",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Barajas",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata": "MAD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Malaga",
+    "city": "Malaga",
+    "country": "Spain",
+    "iata": "AGP",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Menorca",
+    "city": "Menorca",
+    "country": "Spain",
+    "iata": "MAH",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Reus",
+    "city": "Reus",
+    "country": "Spain",
+    "iata": "REU",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Santiago",
+    "city": "Santiago",
+    "country": "Spain",
+    "iata": "SCQ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Valencia",
+    "city": "Valencia",
+    "country": "Spain",
+    "iata": "VLC",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Santander",
+    "city": "Santander",
+    "country": "Spain",
+    "iata": "SDR",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Sevilla",
+    "city": "Sevilla",
+    "country": "Spain",
+    "iata": "SVQ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Merignac",
+    "city": "Bordeaux",
+    "country": "France",
+    "iata": "BOD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Blagnac",
+    "city": "Toulouse",
+    "country": "France",
+    "iata": "TLS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Poretta",
+    "city": "Bastia",
+    "country": "France",
+    "iata": "BIA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Saint Catherine",
+    "city": "Calvi",
+    "country": "France",
+    "iata": "CLY",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Campo Dell Oro",
+    "city": "Ajaccio",
+    "country": "France",
+    "iata": "AJA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Saint Exupery",
+    "city": "Lyon",
+    "country": "France",
+    "iata": "LYS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Provence",
+    "city": "Marseille",
+    "country": "France",
+    "iata": "MRS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Cote D\\\\'Azur",
+    "city": "Nice",
+    "country": "France",
+    "iata": "NCE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Mediterranee",
+    "city": "Montpellier",
+    "country": "France",
+    "iata": "MPL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Tille",
+    "city": "Beauvais",
+    "country": "France",
+    "iata": "BVA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Charles De Gaulle",
+    "city": "Paris",
+    "country": "France",
+    "iata": "CDG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Orly",
+    "city": "Paris",
+    "country": "France",
+    "iata": "ORY",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Lesquin",
+    "city": "Lille",
+    "country": "France",
+    "iata": "LIL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Guipavas",
+    "city": "Brest",
+    "country": "France",
+    "iata": "BES",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Nantes Atlantique",
+    "city": "Nantes",
+    "country": "France",
+    "iata": "NTE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Entzheim",
+    "city": "Strasbourg",
+    "country": "France",
+    "iata": "SXB",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Nikos Kazantzakis",
+    "city": "Heraklion",
+    "country": "Greece",
+    "iata": "HER",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Kos",
+    "city": "Kos",
+    "country": "Greece",
+    "iata": "KGS",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Ioannis Kapodistrias Intl",
+    "city": "Kerkyra/corfu",
+    "country": "Greece",
+    "iata": "CFU",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Rhodes Diagoras",
+    "city": "Rhodos",
+    "country": "Greece",
+    "iata": "RHO",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Souda",
+    "city": "Chania",
+    "country": "Greece",
+    "iata": "CHQ",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Santorini",
+    "city": "Thira",
+    "country": "Greece",
+    "iata": "JTR",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Makedonia",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "iata": "SKG",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Dionysios Solomos",
+    "city": "Zakynthos",
+    "country": "Greece",
+    "iata": "ZTH",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Ferihegy",
+    "city": "Budapest",
+    "country": "Hungary",
+    "iata": "BUD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Budapest"
+  },
+  {
+    "name": "Bari",
+    "city": "Bari",
+    "country": "Italy",
+    "iata": "BRI",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Casale",
+    "city": "Brindisi",
+    "country": "Italy",
+    "iata": "BDS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Lamezia Terme",
+    "city": "Lamezia",
+    "country": "Italy",
+    "iata": "SUF",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Catania Fontanarossa",
+    "city": "Catania",
+    "country": "Italy",
+    "iata": "CTA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Palermo",
+    "city": "Palermo",
+    "country": "Italy",
+    "iata": "PMO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Trapani Birgi",
+    "city": "Trapani",
+    "country": "Italy",
+    "iata": "TPS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Alghero",
+    "city": "Alghero",
+    "country": "Italy",
+    "iata": "AHO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Elmas",
+    "city": "Cagliari",
+    "country": "Italy",
+    "iata": "CAG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Olbia Costa Smeralda",
+    "city": "Olbia",
+    "country": "Italy",
+    "iata": "OLB",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Malpensa",
+    "city": "Milano",
+    "country": "Italy",
+    "iata": "MXP",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Bergamo Orio Al Serio",
+    "city": "Bergamo",
+    "country": "Italy",
+    "iata": "BGY",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Torino",
+    "city": "Torino",
+    "country": "Italy",
+    "iata": "TRN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Genova Sestri",
+    "city": "Genoa",
+    "country": "Italy",
+    "iata": "GOA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Linate",
+    "city": "Milan",
+    "country": "Italy",
+    "iata": "LIN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Bologna",
+    "city": "Bologna",
+    "country": "Italy",
+    "iata": "BLQ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Treviso",
+    "city": "Treviso",
+    "country": "Italy",
+    "iata": "TSF",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Villafranca",
+    "city": "Villafranca",
+    "country": "Italy",
+    "iata": "VRN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Venezia Tessera",
+    "city": "Venice",
+    "country": "Italy",
+    "iata": "VCE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Ciampino",
+    "city": "Rome",
+    "country": "Italy",
+    "iata": "CIA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Fiumicino",
+    "city": "Rome",
+    "country": "Italy",
+    "iata": "FCO",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Capodichino",
+    "city": "Naples",
+    "country": "Italy",
+    "iata": "NAP",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Pisa",
+    "city": "Pisa",
+    "country": "Italy",
+    "iata": "PSA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Firenze",
+    "city": "Florence",
+    "country": "Italy",
+    "iata": "FLR",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Ljubljana",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "iata": "LJU",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Ljubljana"
+  },
+  {
+    "name": "Ruzyne",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "iata": "PRG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Prague"
+  },
+  {
+    "name": "Ben Gurion",
+    "city": "Tel-aviv",
+    "country": "Israel",
+    "iata": "TLV",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Asia/Jerusalem"
+  },
+  {
+    "name": "Luqa",
+    "city": "Malta",
+    "country": "Malta",
+    "iata": "MLA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Malta"
+  },
+  {
+    "name": "Graz",
+    "city": "Graz",
+    "country": "Austria",
+    "iata": "GRZ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Vienna"
+  },
+  {
+    "name": "Salzburg",
+    "city": "Salzburg",
+    "country": "Austria",
+    "iata": "SZG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Vienna"
+  },
+  {
+    "name": "Schwechat",
+    "city": "Vienna",
+    "country": "Austria",
+    "iata": "VIE",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Vienna"
+  },
+  {
+    "name": "Faro",
+    "city": "Faro",
+    "country": "Portugal",
+    "iata": "FAO",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Lisbon"
+  },
+  {
+    "name": "Ponta Delgada",
+    "city": "Ponta Delgada",
+    "country": "Portugal",
+    "iata": "PDL",
+    "timezone": "-1",
+    "dst": "E",
+    "tz": "Atlantic/Azores"
+  },
+  {
+    "name": "Porto",
+    "city": "Porto",
+    "country": "Portugal",
+    "iata": "OPO",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Lisbon"
+  },
+  {
+    "name": "Lisboa",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "iata": "LIS",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Lisbon"
+  },
+  {
+    "name": "Sarajevo",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "iata": "SJJ",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Sarajevo"
+  },
+  {
+    "name": "Cluj Napoca",
+    "city": "Cluj-napoca",
+    "country": "Romania",
+    "iata": "CLJ",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Bucharest"
+  },
+  {
+    "name": "Henri Coanda",
+    "city": "Bucharest",
+    "country": "Romania",
+    "iata": "OTP",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Bucharest"
+  },
+  {
+    "name": "Geneve Cointrin",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "iata": "GVA",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Zurich",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "iata": "ZRH",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Zurich"
+  },
+  {
+    "name": "Esenboga",
+    "city": "Ankara",
+    "country": "Turkey",
+    "iata": "ESB",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Adana",
+    "city": "Adana",
+    "country": "Turkey",
+    "iata": "ADA",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Antalya",
+    "city": "Antalya",
+    "country": "Turkey",
+    "iata": "AYT",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Ataturk",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "iata": "IST",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Adnan Menderes",
+    "city": "Izmir",
+    "country": "Turkey",
+    "iata": "ADB",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Dalaman",
+    "city": "Dalaman",
+    "country": "Turkey",
+    "iata": "DLM",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Chisinau Intl",
+    "city": "Chisinau",
+    "country": "Moldova",
+    "iata": "KIV",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Chisinau"
+  },
+  {
+    "name": "Skopje",
+    "city": "Skopje",
+    "country": "Macedonia",
+    "iata": "SKP",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Skopje"
+  },
+  {
+    "name": "Beograd",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "iata": "BEG",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Belgrade"
+  },
+  {
+    "name": "Podgorica",
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "iata": "TGD",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Podgorica"
+  },
+  {
+    "name": "Pristina",
+    "city": "Pristina",
+    "country": "Serbia",
+    "iata": "PRN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Belgrade"
+  },
+  {
+    "name": "M R Stefanik",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "iata": "BTS",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Bratislava"
+  },
+  {
+    "name": "Providenciales",
+    "city": "Providenciales",
+    "country": "Turks and Caicos Islands",
+    "iata": "PLS",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Grand_Turk"
+  },
+  {
+    "name": "Punta Cana Intl",
+    "city": "Punta Cana",
+    "country": "Dominican Republic",
+    "iata": "PUJ",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "name": "Las Americas Intl",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "iata": "SDQ",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "name": "La Aurora",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "iata": "GUA",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/Guatemala"
+  },
+  {
+    "name": "La Mesa Intl",
+    "city": "San Pedro Sula",
+    "country": "Honduras",
+    "iata": "SAP",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "name": "Toncontin Intl",
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "iata": "TGU",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "name": "Norman Manley Intl",
+    "city": "Kingston",
+    "country": "Jamaica",
+    "iata": "KIN",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Jamaica"
+  },
+  {
+    "name": "Sangster Intl",
+    "city": "Montego Bay",
+    "country": "Jamaica",
+    "iata": "MBJ",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Jamaica"
+  },
+  {
+    "name": "Culiacan Intl",
+    "city": "Culiacan",
+    "country": "Mexico",
+    "iata": "CUL",
+    "timezone": "-7",
+    "dst": "S",
+    "tz": "America/Mazatlan"
+  },
+  {
+    "name": "General R Fierro Villalobos Intl",
+    "city": "Chihuahua",
+    "country": "Mexico",
+    "iata": "CUU",
+    "timezone": "-7",
+    "dst": "S",
+    "tz": "America/Mazatlan"
+  },
+  {
+    "name": "Cozumel Intl",
+    "city": "Cozumel",
+    "country": "Mexico",
+    "iata": "CZM",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "Don Miguel Hidalgo Y Costilla Intl",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "iata": "GDL",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "General Ignacio P Garcia Intl",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "iata": "HMO",
+    "timezone": "-7",
+    "dst": "S",
+    "tz": "America/Hermosillo"
+  },
+  {
+    "name": "Licenciado Manuel Crescencio Rejon Int",
+    "city": "Merida",
+    "country": "Mexico",
+    "iata": "MID",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "Licenciado Benito Juarez Intl",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "iata": "MEX",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "General Mariano Escobedo Intl",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "iata": "MTY",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "General Rafael Buelna Intl",
+    "city": "Mazatlan",
+    "country": "Mexico",
+    "iata": "MZT",
+    "timezone": "-7",
+    "dst": "S",
+    "tz": "America/Mazatlan"
+  },
+  {
+    "name": "Licenciado Gustavo Diaz Ordaz Intl",
+    "city": "Puerto Vallarta",
+    "country": "Mexico",
+    "iata": "PVR",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "Los Cabos Intl",
+    "city": "San Jose Del Cabo",
+    "country": "Mexico",
+    "iata": "SJD",
+    "timezone": "-7",
+    "dst": "S",
+    "tz": "America/Mazatlan"
+  },
+  {
+    "name": "General Abelardo L Rodriguez Intl",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "iata": "TIJ",
+    "timezone": "-8",
+    "dst": "S",
+    "tz": "America/Tijuana"
+  },
+  {
+    "name": "Cancun Intl",
+    "city": "Cancun",
+    "country": "Mexico",
+    "iata": "CUN",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "General Heriberto Jara Intl",
+    "city": "Vera Cruz",
+    "country": "Mexico",
+    "iata": "VER",
+    "timezone": "-6",
+    "dst": "S",
+    "tz": "America/Mexico_City"
+  },
+  {
+    "name": "Tocumen Intl",
+    "city": "Panama City",
+    "country": "Panama",
+    "iata": "PTY",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Panama"
+  },
+  {
+    "name": "Daniel Oduber Quiros Intl",
+    "city": "Liberia",
+    "country": "Costa Rica",
+    "iata": "LIR",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "name": "Juan Santamaria Intl",
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "iata": "SJO",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "name": "El Salvador Intl",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "iata": "SAL",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/El_Salvador"
+  },
+  {
+    "name": "Toussaint Louverture Intl",
+    "city": "Port-au-prince",
+    "country": "Haiti",
+    "iata": "PAP",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Port-au-Prince"
+  },
+  {
+    "name": "Jose Marti Intl",
+    "city": "Havana",
+    "country": "Cuba",
+    "iata": "HAV",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Havana"
+  },
+  {
+    "name": "Owen Roberts Intl",
+    "city": "Georgetown",
+    "country": "Cayman Islands",
+    "iata": "GCM",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Cayman"
+  },
+  {
+    "name": "Grand Bahama Intl",
+    "city": "Freeport",
+    "country": "Bahamas",
+    "iata": "FPO",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Nassau"
+  },
+  {
+    "name": "Lynden Pindling Intl",
+    "city": "Nassau",
+    "country": "Bahamas",
+    "iata": "NAS",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Nassau"
+  },
+  {
+    "name": "Philip S W Goldson Intl",
+    "city": "Belize City",
+    "country": "Belize",
+    "iata": "BZE",
+    "timezone": "-6",
+    "dst": "U",
+    "tz": "America/Belize"
+  },
+  {
+    "name": "Nadi Intl",
+    "city": "Nandi",
+    "country": "Fiji",
+    "iata": "NAN",
+    "timezone": "12",
+    "dst": "U",
+    "tz": "Pacific/Fiji"
+  },
+  {
+    "name": "Port Vila Bauerfield",
+    "city": "Port-vila",
+    "country": "Vanuatu",
+    "iata": "VLI",
+    "timezone": "11",
+    "dst": "U",
+    "tz": "Pacific/Efate"
+  },
+  {
+    "name": "Auckland Intl",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "iata": "AKL",
+    "timezone": "12",
+    "dst": "Z",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Christchurch Intl",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "iata": "CHC",
+    "timezone": "12",
+    "dst": "Z",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Wellington Intl",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "iata": "WLG",
+    "timezone": "12",
+    "dst": "Z",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Kabul Intl",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "iata": "KBL",
+    "timezone": "4.5",
+    "dst": "U",
+    "tz": "Asia/Kabul"
+  },
+  {
+    "name": "Bahrain Intl",
+    "city": "Bahrain",
+    "country": "Bahrain",
+    "iata": "BAH",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Bahrain"
+  },
+  {
+    "name": "King Fahd Intl",
+    "city": "Dammam",
+    "country": "Saudi Arabia",
+    "iata": "DMM",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Riyadh"
+  },
+  {
+    "name": "King Abdulaziz Intl",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "iata": "JED",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Riyadh"
+  },
+  {
+    "name": "Prince Mohammad Bin Abdulaziz",
+    "city": "Madinah",
+    "country": "Saudi Arabia",
+    "iata": "MED",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Riyadh"
+  },
+  {
+    "name": "King Khaled Intl",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "iata": "RUH",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Riyadh"
+  },
+  {
+    "name": "Ahwaz",
+    "city": "Ahwaz",
+    "country": "Iran",
+    "iata": "AWZ",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Kish Island",
+    "city": "Kish Island",
+    "country": "Iran",
+    "iata": "KIH",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Mehrabad Intl",
+    "city": "Teheran",
+    "country": "Iran",
+    "iata": "THR",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Bandar Abbass Intl",
+    "city": "Bandar Abbas",
+    "country": "Iran",
+    "iata": "BND",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Shiraz Shahid Dastghaib Intl",
+    "city": "Shiraz",
+    "country": "Iran",
+    "iata": "SYZ",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Tabriz Intl",
+    "city": "Tabriz",
+    "country": "Iran",
+    "iata": "TBZ",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Queen Alia Intl",
+    "city": "Amman",
+    "country": "Jordan",
+    "iata": "AMM",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Asia/Amman"
+  },
+  {
+    "name": "Kuwait Intl",
+    "city": "Kuwait",
+    "country": "Kuwait",
+    "iata": "KWI",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Kuwait"
+  },
+  {
+    "name": "Rafic Hariri Intl",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "iata": "BEY",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Asia/Beirut"
+  },
+  {
+    "name": "Abu Dhabi Intl",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "iata": "AUH",
+    "timezone": "4",
+    "dst": "U",
+    "tz": "Asia/Dubai"
+  },
+  {
+    "name": "Dubai Intl",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "iata": "DXB",
+    "timezone": "4",
+    "dst": "U",
+    "tz": "Asia/Dubai"
+  },
+  {
+    "name": "Sharjah Intl",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "iata": "SHJ",
+    "timezone": "4",
+    "dst": "U",
+    "tz": "Asia/Dubai"
+  },
+  {
+    "name": "Seeb Intl",
+    "city": "Muscat",
+    "country": "Oman",
+    "iata": "MCT",
+    "timezone": "4",
+    "dst": "U",
+    "tz": "Asia/Muscat"
+  },
+  {
+    "name": "Jinnah Intl",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "iata": "KHI",
+    "timezone": "5",
+    "dst": "N",
+    "tz": "Asia/Karachi"
+  },
+  {
+    "name": "Allama Iqbal Intl",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "iata": "LHE",
+    "timezone": "5",
+    "dst": "N",
+    "tz": "Asia/Karachi"
+  },
+  {
+    "name": "Peshawar Intl",
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "iata": "PEW",
+    "timezone": "5",
+    "dst": "N",
+    "tz": "Asia/Karachi"
+  },
+  {
+    "name": "Chaklala",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "iata": "ISB",
+    "timezone": "5",
+    "dst": "N",
+    "tz": "Asia/Karachi"
+  },
+  {
+    "name": "Doha Intl",
+    "city": "Doha",
+    "country": "Qatar",
+    "iata": "DOH",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Qatar"
+  },
+  {
+    "name": "Guam Intl",
+    "city": "Agana",
+    "country": "Guam",
+    "iata": "GUM",
+    "timezone": "10",
+    "dst": "U",
+    "tz": "Pacific/Guam"
+  },
+  {
+    "name": "Kaohsiung Intl",
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "iata": "KHH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Taipei"
+  },
+  {
+    "name": "Ching Chuang Kang",
+    "city": "Taichung",
+    "country": "Taiwan",
+    "iata": "RMQ",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Taipei"
+  },
+  {
+    "name": "Sungshan",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "iata": "TSA",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Taipei"
+  },
+  {
+    "name": "Taoyuan Intl",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "iata": "TPE",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Taipei"
+  },
+  {
+    "name": "Narita Intl",
+    "city": "Tokyo",
+    "country": "Japan",
+    "iata": "NRT",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "New Chitose",
+    "city": "Sapporo",
+    "country": "Japan",
+    "iata": "CTS",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Fukuoka",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "iata": "FUK",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Kagoshima",
+    "city": "Kagoshima",
+    "country": "Japan",
+    "iata": "KOJ",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Nagasaki",
+    "city": "Nagasaki",
+    "country": "Japan",
+    "iata": "NGS",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Komatsu",
+    "city": "Kanazawa",
+    "country": "Japan",
+    "iata": "KMQ",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Hiroshima",
+    "city": "Hiroshima",
+    "country": "Japan",
+    "iata": "HIJ",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Osaka Intl",
+    "city": "Osaka",
+    "country": "Japan",
+    "iata": "ITM",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Sendai",
+    "city": "Sendai",
+    "country": "Japan",
+    "iata": "SDJ",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Tokyo Intl",
+    "city": "Tokyo",
+    "country": "Japan",
+    "iata": "HND",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Jeju Intl",
+    "city": "Cheju",
+    "country": "South Korea",
+    "iata": "CJU",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Seoul"
+  },
+  {
+    "name": "Gimhae Intl",
+    "city": "Busan",
+    "country": "South Korea",
+    "iata": "PUS",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Seoul"
+  },
+  {
+    "name": "Gimpo",
+    "city": "Seoul",
+    "country": "South Korea",
+    "iata": "GMP",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Seoul"
+  },
+  {
+    "name": "Naha",
+    "city": "Okinawa",
+    "country": "Japan",
+    "iata": "OKA",
+    "timezone": "9",
+    "dst": "N",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Ninoy Aquino Intl",
+    "city": "Manila",
+    "country": "Philippines",
+    "iata": "MNL",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Manila"
+  },
+  {
+    "name": "Kalibo",
+    "city": "Kalibo",
+    "country": "Philippines",
+    "iata": "KLO",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Manila"
+  },
+  {
+    "name": "Aeroparque Jorge Newbery",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "iata": "AEP",
+    "timezone": "-3",
+    "dst": "N",
+    "tz": "America/Cordoba"
+  },
+  {
+    "name": "Val De Cans Intl",
+    "city": "Belem",
+    "country": "Brazil",
+    "iata": "BEL",
+    "timezone": "-4",
+    "dst": "S",
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "name": "Presidente Juscelino Kubitschek",
+    "city": "Brasilia",
+    "country": "Brazil",
+    "iata": "BSB",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Tancredo Neves Intl",
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "iata": "CNF",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Campo Grande",
+    "city": "Campo Grande",
+    "country": "Brazil",
+    "iata": "CGR",
+    "timezone": "-4",
+    "dst": "S",
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "name": "Afonso Pena",
+    "city": "Curitiba",
+    "country": "Brazil",
+    "iata": "CWB",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Marechal Rondon",
+    "city": "Cuiaba",
+    "country": "Brazil",
+    "iata": "CGB",
+    "timezone": "-4",
+    "dst": "S",
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "name": "Eduardo Gomes Intl",
+    "city": "Manaus",
+    "country": "Brazil",
+    "iata": "MAO",
+    "timezone": "-4",
+    "dst": "S",
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "name": "Hercilio Luz",
+    "city": "Florianopolis",
+    "country": "Brazil",
+    "iata": "FLN",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Pinto Martins Intl",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "iata": "FOR",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Fortaleza"
+  },
+  {
+    "name": "Galeao Antonio Carlos Jobim",
+    "city": "Rio De Janeiro",
+    "country": "Brazil",
+    "iata": "GIG",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Santa Genoveva",
+    "city": "Goiania",
+    "country": "Brazil",
+    "iata": "GYN",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Guarulhos Gov Andre Franco Montouro",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "iata": "GRU",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Viracopos",
+    "city": "Campinas",
+    "country": "Brazil",
+    "iata": "VCP",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Augusto Severo",
+    "city": "Natal",
+    "country": "Brazil",
+    "iata": "NAT",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Fortaleza"
+  },
+  {
+    "name": "Salgado Filho",
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "iata": "POA",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Guararapes Gilberto Freyre Intl",
+    "city": "Recife",
+    "country": "Brazil",
+    "iata": "REC",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Fortaleza"
+  },
+  {
+    "name": "Santos Dumont",
+    "city": "Rio De Janeiro",
+    "country": "Brazil",
+    "iata": "SDU",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Leite Lopes",
+    "city": "Ribeirao Preto",
+    "country": "Brazil",
+    "iata": "RAO",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Marechal Cunha Machado Intl",
+    "city": "Sao Luis",
+    "country": "Brazil",
+    "iata": "SLZ",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Fortaleza"
+  },
+  {
+    "name": "Congonhas",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "iata": "CGH",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Deputado Luis Eduardo Magalhaes",
+    "city": "Salvador",
+    "country": "Brazil",
+    "iata": "SSA",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Fortaleza"
+  },
+  {
+    "name": "Ten Cel Av Cesar Bombonato",
+    "city": "Uberlandia",
+    "country": "Brazil",
+    "iata": "UDI",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Goiabeiras",
+    "city": "Vitoria",
+    "country": "Brazil",
+    "iata": "VIX",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "name": "Arturo Merino Benitez Intl",
+    "city": "Santiago",
+    "country": "Chile",
+    "iata": "SCL",
+    "timezone": "-4",
+    "dst": "S",
+    "tz": "America/Santiago"
+  },
+  {
+    "name": "Jose Joaquin De Olmedo Intl",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "iata": "GYE",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Guayaquil"
+  },
+  {
+    "name": "Mariscal Sucre Intl",
+    "city": "Quito",
+    "country": "Ecuador",
+    "iata": "UIO",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Guayaquil"
+  },
+  {
+    "name": "Silvio Pettirossi Intl",
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "iata": "ASU",
+    "timezone": "-4",
+    "dst": "S",
+    "tz": "America/Asuncion"
+  },
+  {
+    "name": "Eldorado Intl",
+    "city": "Bogota",
+    "country": "Colombia",
+    "iata": "BOG",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Alfonso Bonilla Aragon Intl",
+    "city": "Cali",
+    "country": "Colombia",
+    "iata": "CLO",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Jose Maria Cordova",
+    "city": "Rio Negro",
+    "country": "Colombia",
+    "iata": "MDE",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "El Alto Intl",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "iata": "LPB",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/La_Paz"
+  },
+  {
+    "name": "Viru Viru Intl",
+    "city": "Santa Cruz",
+    "country": "Bolivia",
+    "iata": "VVI",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/La_Paz"
+  },
+  {
+    "name": "Jorge Chavez Intl",
+    "city": "Lima",
+    "country": "Peru",
+    "iata": "LIM",
+    "timezone": "-5",
+    "dst": "U",
+    "tz": "America/Lima"
+  },
+  {
+    "name": "Carrasco Intl",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "iata": "MVD",
+    "timezone": "-3",
+    "dst": "S",
+    "tz": "America/Montevideo"
+  },
+  {
+    "name": "Del Caribe Intl Gen Santiago Marino",
+    "city": "Porlamar",
+    "country": "Venezuela",
+    "iata": "PMV",
+    "timezone": "-4.5",
+    "dst": "U",
+    "tz": "America/Caracas"
+  },
+  {
+    "name": "Simon Bolivar Intl",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "iata": "CCS",
+    "timezone": "-4.5",
+    "dst": "U",
+    "tz": "America/Caracas"
+  },
+  {
+    "name": "V C Bird Intl",
+    "city": "Antigua",
+    "country": "Antigua and Barbuda",
+    "iata": "ANU",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Antigua"
+  },
+  {
+    "name": "Grantley Adams Intl",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "iata": "BGI",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Barbados"
+  },
+  {
+    "name": "Melville Hall",
+    "city": "Dominica",
+    "country": "Dominica",
+    "iata": "DOM",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Dominica"
+  },
+  {
+    "name": "Le Lamentin",
+    "city": "Fort-de-france",
+    "country": "Martinique",
+    "iata": "FDF",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Martinique"
+  },
+  {
+    "name": "Le Raizet",
+    "city": "Pointe-a-pitre",
+    "country": "Guadeloupe",
+    "iata": "PTP",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Guadeloupe"
+  },
+  {
+    "name": "Cyril E King",
+    "city": "St. Thomas",
+    "country": "Virgin Islands",
+    "iata": "STT",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/St_Thomas"
+  },
+  {
+    "name": "Luis Munoz Marin Intl",
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "iata": "SJU",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Puerto_Rico"
+  },
+  {
+    "name": "Hewanorra Intl",
+    "city": "Hewandorra",
+    "country": "Saint Lucia",
+    "iata": "UVF",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/St_Lucia"
+  },
+  {
+    "name": "Reina Beatrix Intl",
+    "city": "Oranjestad",
+    "country": "Aruba",
+    "iata": "AUA",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Aruba"
+  },
+  {
+    "name": "Hato",
+    "city": "Willemstad",
+    "country": "Netherlands Antilles",
+    "iata": "CUR",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Curacao"
+  },
+  {
+    "name": "Princess Juliana Intl",
+    "city": "Philipsburg",
+    "country": "Netherlands Antilles",
+    "iata": "SXM",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Curacao"
+  },
+  {
+    "name": "Piarco",
+    "city": "Port-of-spain",
+    "country": "Trinidad and Tobago",
+    "iata": "POS",
+    "timezone": "-4",
+    "dst": "U",
+    "tz": "America/Port_of_Spain"
+  },
+  {
+    "name": "Almaty",
+    "city": "Alma-ata",
+    "country": "Kazakhstan",
+    "iata": "ALA",
+    "timezone": "6",
+    "dst": "U",
+    "tz": "Asia/Qyzylorda"
+  },
+  {
+    "name": "Astana Intl",
+    "city": "Tselinograd",
+    "country": "Kazakhstan",
+    "iata": "TSE",
+    "timezone": "6",
+    "dst": "U",
+    "tz": "Asia/Qyzylorda"
+  },
+  {
+    "name": "Manas",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "iata": "FRU",
+    "timezone": "6",
+    "dst": "U",
+    "tz": "Asia/Bishkek"
+  },
+  {
+    "name": "Osh",
+    "city": "Osh",
+    "country": "Kyrgyzstan",
+    "iata": "OSS",
+    "timezone": "6",
+    "dst": "U",
+    "tz": "Asia/Bishkek"
+  },
+  {
+    "name": "Heydar Aliyev",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "iata": "GYD",
+    "timezone": "4",
+    "dst": "E",
+    "tz": "Asia/Baku"
+  },
+  {
+    "name": "Yakutsk",
+    "city": "Yakutsk",
+    "country": "Russia",
+    "iata": "YKS",
+    "timezone": "10",
+    "dst": "N",
+    "tz": "Asia/Yakutsk"
+  },
+  {
+    "name": "Novy",
+    "city": "Khabarovsk",
+    "country": "Russia",
+    "iata": "KHV",
+    "timezone": "11",
+    "dst": "N",
+    "tz": "Asia/Vladivostok"
+  },
+  {
+    "name": "Khomutovo",
+    "city": "Yuzhno-sakhalinsk",
+    "country": "Russia",
+    "iata": "UUS",
+    "timezone": "11",
+    "dst": "N",
+    "tz": "Asia/Vladivostok"
+  },
+  {
+    "name": "Knevichi",
+    "city": "Vladivostok",
+    "country": "Russia",
+    "iata": "VVO",
+    "timezone": "11",
+    "dst": "N",
+    "tz": "Asia/Vladivostok"
+  },
+  {
+    "name": "Irkutsk",
+    "city": "Irkutsk",
+    "country": "Russia",
+    "iata": "IKT",
+    "timezone": "9",
+    "dst": "N",
+    "tz": "Asia/Irkutsk"
+  },
+  {
+    "name": "Boryspil Intl",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "iata": "KBP",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Kiev"
+  },
+  {
+    "name": "Donetsk Intl",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "iata": "DOK",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Kiev"
+  },
+  {
+    "name": "Zhuliany Intl",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "iata": "IEV",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Kiev"
+  },
+  {
+    "name": "Lviv Intl",
+    "city": "Lvov",
+    "country": "Ukraine",
+    "iata": "LWO",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Kiev"
+  },
+  {
+    "name": "Odesa Intl",
+    "city": "Odessa",
+    "country": "Ukraine",
+    "iata": "ODS",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Kiev"
+  },
+  {
+    "name": "Pulkovo",
+    "city": "St. Petersburg",
+    "country": "Russia",
+    "iata": "LED",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Khrabrovo",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "iata": "KGD",
+    "timezone": "3",
+    "dst": "N",
+    "tz": "Europe/Kaliningrad"
+  },
+  {
+    "name": "Minsk 2",
+    "city": "Minsk 2",
+    "country": "Belarus",
+    "iata": "MSQ",
+    "timezone": "3",
+    "dst": "E",
+    "tz": "Europe/Minsk"
+  },
+  {
+    "name": "Omsk",
+    "city": "Omsk",
+    "country": "Russia",
+    "iata": "OMS",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Omsk"
+  },
+  {
+    "name": "Pashkovskiy",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "iata": "KRR",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Mineralnyye Vody",
+    "city": "Mineralnye Vody",
+    "country": "Russia",
+    "iata": "MRV",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Rostov Na Donu",
+    "city": "Rostov",
+    "country": "Russia",
+    "iata": "ROV",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Sochi",
+    "city": "Sochi",
+    "country": "Russia",
+    "iata": "AER",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Balandino",
+    "city": "Chelyabinsk",
+    "country": "Russia",
+    "iata": "CEK",
+    "timezone": "6",
+    "dst": "N",
+    "tz": "Asia/Yekaterinburg"
+  },
+  {
+    "name": "Koltsovo",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "iata": "SVX",
+    "timezone": "6",
+    "dst": "N",
+    "tz": "Asia/Yekaterinburg"
+  },
+  {
+    "name": "Ashgabat",
+    "city": "Ashkhabad",
+    "country": "Turkmenistan",
+    "iata": "ASB",
+    "timezone": "5",
+    "dst": "U",
+    "tz": "Asia/Ashgabat"
+  },
+  {
+    "name": "Dushanbe",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "iata": "DYU",
+    "timezone": "5",
+    "dst": "U",
+    "tz": "Asia/Dushanbe"
+  },
+  {
+    "name": "Yuzhny",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "iata": "TAS",
+    "timezone": "5",
+    "dst": "U",
+    "tz": "Asia/Samarkand"
+  },
+  {
+    "name": "Sheremetyevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "iata": "SVO",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Vnukovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "iata": "VKO",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Kazan",
+    "city": "Kazan",
+    "country": "Russia",
+    "iata": "KZN",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Ufa",
+    "city": "Ufa",
+    "country": "Russia",
+    "iata": "UFA",
+    "timezone": "6",
+    "dst": "N",
+    "tz": "Asia/Yekaterinburg"
+  },
+  {
+    "name": "Ahmedabad",
+    "city": "Ahmedabad",
+    "country": "India",
+    "iata": "AMD",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Chhatrapati Shivaji Intl",
+    "city": "Mumbai",
+    "country": "India",
+    "iata": "BOM",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Goa",
+    "city": "Goa",
+    "country": "India",
+    "iata": "GOI",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Devi Ahilyabai Holkar",
+    "city": "Indore",
+    "country": "India",
+    "iata": "IDR",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Dr Ambedkar Intl",
+    "city": "Nagpur",
+    "country": "India",
+    "iata": "NAG",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Pune",
+    "city": "Pune",
+    "country": "India",
+    "iata": "PNQ",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Bandaranaike Intl Colombo",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "iata": "CMB",
+    "timezone": "5.5",
+    "dst": "U",
+    "tz": "Asia/Colombo"
+  },
+  {
+    "name": "Phnom Penh Intl",
+    "city": "Phnom-penh",
+    "country": "Cambodia",
+    "iata": "PNH",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Phnom_Penh"
+  },
+  {
+    "name": "Siem Reap",
+    "city": "Siem-reap",
+    "country": "Cambodia",
+    "iata": "REP",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Phnom_Penh"
+  },
+  {
+    "name": "Bagdogra",
+    "city": "Baghdogra",
+    "country": "India",
+    "iata": "IXB",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Netaji Subhash Chandra Bose Intl",
+    "city": "Kolkata",
+    "country": "India",
+    "iata": "CCU",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Vishakhapatnam",
+    "city": "Vishakhapatnam",
+    "country": "India",
+    "iata": "VTZ",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Shah Amanat Intl",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "iata": "CGP",
+    "timezone": "6",
+    "dst": "U",
+    "tz": "Asia/Dhaka"
+  },
+  {
+    "name": "Zia Intl",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "iata": "DAC",
+    "timezone": "6",
+    "dst": "U",
+    "tz": "Asia/Dhaka"
+  },
+  {
+    "name": "Hong Kong Intl",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "iata": "HKG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Hong_Kong"
+  },
+  {
+    "name": "Indira Gandhi Intl",
+    "city": "Delhi",
+    "country": "India",
+    "iata": "DEL",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Jaipur",
+    "city": "Jaipur",
+    "country": "India",
+    "iata": "JAI",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Lucknow",
+    "city": "Lucknow",
+    "country": "India",
+    "iata": "LKO",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Wattay Intl",
+    "city": "Vientiane",
+    "country": "Laos",
+    "iata": "VTE",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Vientiane"
+  },
+  {
+    "name": "Macau Intl",
+    "city": "Macau",
+    "country": "Macau",
+    "iata": "MFM",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Macau"
+  },
+  {
+    "name": "Tribhuvan Intl",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "iata": "KTM",
+    "timezone": "5.75",
+    "dst": "N",
+    "tz": "Asia/Katmandu"
+  },
+  {
+    "name": "Bangalore",
+    "city": "Bangalore",
+    "country": "India",
+    "iata": "BLR",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Coimbatore",
+    "city": "Coimbatore",
+    "country": "India",
+    "iata": "CJB",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Cochin",
+    "city": "Kochi",
+    "country": "India",
+    "iata": "COK",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Calicut",
+    "city": "Calicut",
+    "country": "India",
+    "iata": "CCJ",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Hyderabad",
+    "city": "Hyderabad",
+    "country": "India",
+    "iata": "HYD",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Mangalore",
+    "city": "Mangalore",
+    "country": "India",
+    "iata": "IXE",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Chennai Intl",
+    "city": "Madras",
+    "country": "India",
+    "iata": "MAA",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Thiruvananthapuram Intl",
+    "city": "Trivandrum",
+    "country": "India",
+    "iata": "TRV",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Male Intl",
+    "city": "Male",
+    "country": "Maldives",
+    "iata": "MLE",
+    "timezone": "5",
+    "dst": "U",
+    "tz": "Indian/Maldives"
+  },
+  {
+    "name": "Don Muang Intl",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "iata": "DMK",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Bangkok"
+  },
+  {
+    "name": "Krabi",
+    "city": "Krabi",
+    "country": "Thailand",
+    "iata": "KBV",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Bangkok"
+  },
+  {
+    "name": "Samui",
+    "city": "Ko Samui",
+    "country": "Thailand",
+    "iata": "USM",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Bangkok"
+  },
+  {
+    "name": "Phuket Intl",
+    "city": "Phuket",
+    "country": "Thailand",
+    "iata": "HKT",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Bangkok"
+  },
+  {
+    "name": "Danang Intl",
+    "city": "Danang",
+    "country": "Vietnam",
+    "iata": "DAD",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Saigon"
+  },
+  {
+    "name": "Noibai Intl",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "iata": "HAN",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Saigon"
+  },
+  {
+    "name": "Tansonnhat Intl",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "iata": "SGN",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Saigon"
+  },
+  {
+    "name": "Mandalay Intl",
+    "city": "Mandalay",
+    "country": "Burma",
+    "iata": "MDL",
+    "timezone": "6.5",
+    "dst": "U",
+    "tz": "Asia/Rangoon"
+  },
+  {
+    "name": "Yangon Intl",
+    "city": "Yangon",
+    "country": "Burma",
+    "iata": "RGN",
+    "timezone": "6.5",
+    "dst": "U",
+    "tz": "Asia/Rangoon"
+  },
+  {
+    "name": "Hasanuddin",
+    "city": "Ujung Pandang",
+    "country": "Indonesia",
+    "iata": "UPG",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Makassar"
+  },
+  {
+    "name": "Sentani",
+    "city": "Jayapura",
+    "country": "Indonesia",
+    "iata": "DJJ",
+    "timezone": "9",
+    "dst": "N",
+    "tz": "Asia/Jayapura"
+  },
+  {
+    "name": "Incheon Intl",
+    "city": "Seoul",
+    "country": "South Korea",
+    "iata": "ICN",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Seoul"
+  },
+  {
+    "name": "Sam Ratulangi",
+    "city": "Manado",
+    "country": "Indonesia",
+    "iata": "MDC",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Makassar"
+  },
+  {
+    "name": "Kuching Intl",
+    "city": "Kuching",
+    "country": "Malaysia",
+    "iata": "KCH",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Miri",
+    "city": "Miri",
+    "country": "Malaysia",
+    "iata": "MYY",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Kota Kinabalu Intl",
+    "city": "Kota Kinabalu",
+    "country": "Malaysia",
+    "iata": "BKI",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Brunei Intl",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "iata": "BWN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Brunei"
+  },
+  {
+    "name": "Sultan Syarif Kasim Ii",
+    "city": "Pekanbaru",
+    "country": "Indonesia",
+    "iata": "PKU",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Soekarno Hatta Intl",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "iata": "CGK",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Sultan Ismail",
+    "city": "Johor Bahru",
+    "country": "Malaysia",
+    "iata": "JHB",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Kuala Lumpur Intl",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "iata": "KUL",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Langkawi Intl",
+    "city": "Pulau",
+    "country": "Malaysia",
+    "iata": "LGK",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Penang Intl",
+    "city": "Penang",
+    "country": "Malaysia",
+    "iata": "PEN",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Changi Intl",
+    "city": "Singapore",
+    "country": "Singapore",
+    "iata": "SIN",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Singapore"
+  },
+  {
+    "name": "Brisbane Intl",
+    "city": "Brisbane",
+    "country": "Australia",
+    "iata": "BNE",
+    "timezone": "10",
+    "dst": "N",
+    "tz": "Australia/Brisbane"
+  },
+  {
+    "name": "Gold Coast",
+    "city": "Coolangatta",
+    "country": "Australia",
+    "iata": "OOL",
+    "timezone": "10",
+    "dst": "N",
+    "tz": "Australia/Brisbane"
+  },
+  {
+    "name": "Cairns Intl",
+    "city": "Cairns",
+    "country": "Australia",
+    "iata": "CNS",
+    "timezone": "10",
+    "dst": "N",
+    "tz": "Australia/Brisbane"
+  },
+  {
+    "name": "Townsville",
+    "city": "Townsville",
+    "country": "Australia",
+    "iata": "TSV",
+    "timezone": "10",
+    "dst": "N",
+    "tz": "Australia/Brisbane"
+  },
+  {
+    "name": "Melbourne Intl",
+    "city": "Melbourne",
+    "country": "Australia",
+    "iata": "MEL",
+    "timezone": "10",
+    "dst": "O",
+    "tz": "Australia/Hobart"
+  },
+  {
+    "name": "Adelaide Intl",
+    "city": "Adelaide",
+    "country": "Australia",
+    "iata": "ADL",
+    "timezone": "9.5",
+    "dst": "O",
+    "tz": "Australia/Adelaide"
+  },
+  {
+    "name": "Perth Intl",
+    "city": "Perth",
+    "country": "Australia",
+    "iata": "PER",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Australia/Perth"
+  },
+  {
+    "name": "Sydney Intl",
+    "city": "Sydney",
+    "country": "Australia",
+    "iata": "SYD",
+    "timezone": "10",
+    "dst": "O",
+    "tz": "Australia/Sydney"
+  },
+  {
+    "name": "Capital Intl",
+    "city": "Beijing",
+    "country": "China",
+    "iata": "PEK",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Dongshan",
+    "city": "Hailar",
+    "country": "China",
+    "iata": "HLD",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Binhai",
+    "city": "Tianjin",
+    "country": "China",
+    "iata": "TSN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Wusu",
+    "city": "Taiyuan",
+    "country": "China",
+    "iata": "TYN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Baiyun Intl",
+    "city": "Guangzhou",
+    "country": "China",
+    "iata": "CAN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Huanghua",
+    "city": "Changcha",
+    "country": "China",
+    "iata": "CSX",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Liangjiang",
+    "city": "Guilin",
+    "country": "China",
+    "iata": "KWL",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Wuxu",
+    "city": "Nanning",
+    "country": "China",
+    "iata": "NNG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Baoan Intl",
+    "city": "Shenzhen",
+    "country": "China",
+    "iata": "SZX",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Xinzheng",
+    "city": "Zhengzhou",
+    "country": "China",
+    "iata": "CGO",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Tianhe",
+    "city": "Wuhan",
+    "country": "China",
+    "iata": "WUH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Xianyang",
+    "city": "Xi'an",
+    "country": "China",
+    "iata": "XIY",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Chinggis Khaan Intl",
+    "city": "Ulan Bator",
+    "country": "Mongolia",
+    "iata": "ULN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Ulaanbaatar"
+  },
+  {
+    "name": "Wujiaba",
+    "city": "Kunming",
+    "country": "China",
+    "iata": "KMG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Gaoqi",
+    "city": "Xiamen",
+    "country": "China",
+    "iata": "XMN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Changbei Intl",
+    "city": "Nanchang",
+    "country": "China",
+    "iata": "KHN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Changle",
+    "city": "Fuzhou",
+    "country": "China",
+    "iata": "FOC",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Xiaoshan",
+    "city": "Hangzhou",
+    "country": "China",
+    "iata": "HGH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Lishe",
+    "city": "Ninbo",
+    "country": "China",
+    "iata": "NGB",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Lukou",
+    "city": "Nanjing",
+    "country": "China",
+    "iata": "NKG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Luogang",
+    "city": "Hefei",
+    "country": "China",
+    "iata": "HFE",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Liuting",
+    "city": "Qingdao",
+    "country": "China",
+    "iata": "TAO",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Hongqiao Intl",
+    "city": "Shanghai",
+    "country": "China",
+    "iata": "SHA",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Laishan",
+    "city": "Yantai",
+    "country": "China",
+    "iata": "YNT",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Jiangbei",
+    "city": "Chongqing",
+    "country": "China",
+    "iata": "CKG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Longdongbao",
+    "city": "Guiyang",
+    "country": "China",
+    "iata": "KWE",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Shuangliu",
+    "city": "Chengdu",
+    "country": "China",
+    "iata": "CTU",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Diwopu",
+    "city": "Urumqi",
+    "country": "China",
+    "iata": "URC",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Taiping",
+    "city": "Harbin",
+    "country": "China",
+    "iata": "HRB",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Zhoushuizi",
+    "city": "Dalian",
+    "country": "China",
+    "iata": "DLC",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Pudong",
+    "city": "Shanghai",
+    "country": "China",
+    "iata": "PVG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Subang-Sultan Abdul Aziz Shah Intl",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "iata": "SZB",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Kuala_Lumpur"
+  },
+  {
+    "name": "Borg El Arab Intl",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "iata": "HBE",
+    "timezone": "2",
+    "dst": "U",
+    "tz": "Africa/Cairo"
+  },
+  {
+    "name": "General Edward Lawrence Logan Intl",
+    "city": "Boston",
+    "country": "United States",
+    "iata": "BOS",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Metropolitan Oakland Intl",
+    "city": "Oakland",
+    "country": "United States",
+    "iata": "OAK",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Eppley Afld",
+    "city": "Omaha",
+    "country": "United States",
+    "iata": "OMA",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Kahului",
+    "city": "Kahului",
+    "country": "United States",
+    "iata": "OGG",
+    "timezone": "-10",
+    "dst": "N",
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "name": "Wichita Mid Continent",
+    "city": "Wichita",
+    "country": "United States",
+    "iata": "ICT",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Kansas City Intl",
+    "city": "Kansas City",
+    "country": "United States",
+    "iata": "MCI",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Dane Co Rgnl Truax Fld",
+    "city": "Madison",
+    "country": "United States",
+    "iata": "MSN",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Phoenix Sky Harbor Intl",
+    "city": "Phoenix",
+    "country": "United States",
+    "iata": "PHX",
+    "timezone": "-7",
+    "dst": "N",
+    "tz": "America/Phoenix"
+  },
+  {
+    "name": "Spokane Intl",
+    "city": "Spokane",
+    "country": "United States",
+    "iata": "GEG",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "San Francisco Intl",
+    "city": "San Francisco",
+    "country": "United States",
+    "iata": "SFO",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Memphis Intl",
+    "city": "Memphis",
+    "country": "United States",
+    "iata": "MEM",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Los Angeles Intl",
+    "city": "Los Angeles",
+    "country": "United States",
+    "iata": "LAX",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Cleveland Hopkins Intl",
+    "city": "Cleveland",
+    "country": "United States",
+    "iata": "CLE",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Cincinnati Northern Kentucky Intl",
+    "city": "Cincinnati",
+    "country": "United States",
+    "iata": "CVG",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Juneau Intl",
+    "city": "Juneau",
+    "country": "United States",
+    "iata": "JNU",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "Newark Liberty Intl",
+    "city": "Newark",
+    "country": "United States",
+    "iata": "EWR",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Boise Air Terminal",
+    "city": "Boise",
+    "country": "United States",
+    "iata": "BOI",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Denver"
+  },
+  {
+    "name": "Dallas Love Fld",
+    "city": "Dallas",
+    "country": "United States",
+    "iata": "DAL",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Kona Intl At Keahole",
+    "city": "Kona",
+    "country": "United States",
+    "iata": "KOA",
+    "timezone": "-10",
+    "dst": "N",
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "name": "Myrtle Beach Intl",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "iata": "MYR",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Ronald Reagan Washington Natl",
+    "city": "Washington",
+    "country": "United States",
+    "iata": "DCA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Fort Lauderdale Hollywood Intl",
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "iata": "FLL",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Salt Lake City Intl",
+    "city": "Salt Lake City",
+    "country": "United States",
+    "iata": "SLC",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Denver"
+  },
+  {
+    "name": "Harrisburg Intl",
+    "city": "Harrisburg",
+    "country": "United States",
+    "iata": "MDT",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "George Bush Intercontinental",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "IAH",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "El Paso Intl",
+    "city": "El Paso",
+    "country": "United States",
+    "iata": "ELP",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Denver"
+  },
+  {
+    "name": "Columbia Metropolitan",
+    "city": "Columbia",
+    "country": "United States",
+    "iata": "CAE",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Pensacola Rgnl",
+    "city": "Pensacola",
+    "country": "United States",
+    "iata": "PNS",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "William P Hobby",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "HOU",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Pittsburgh Intl",
+    "city": "Pittsburgh",
+    "country": "United States",
+    "iata": "PIT",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Miami Intl",
+    "city": "Miami",
+    "country": "United States",
+    "iata": "MIA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Seattle Tacoma Intl",
+    "city": "Seattle",
+    "country": "United States",
+    "iata": "SEA",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Lovell Fld",
+    "city": "Chattanooga",
+    "country": "United States",
+    "iata": "CHA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Jackson Evers Intl",
+    "city": "Jackson",
+    "country": "United States",
+    "iata": "JAN",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Long Beach",
+    "city": "Long Beach",
+    "country": "United States",
+    "iata": "LGB",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Indianapolis Intl",
+    "city": "Indianapolis",
+    "country": "United States",
+    "iata": "IND",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Westchester Co",
+    "city": "White Plains",
+    "country": "United States",
+    "iata": "HPN",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Bethel",
+    "city": "Bethel",
+    "country": "United States",
+    "iata": "BET",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "Lihue",
+    "city": "Lihue",
+    "country": "United States",
+    "iata": "LIH",
+    "timezone": "-10",
+    "dst": "N",
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "name": "Richmond Intl",
+    "city": "Richmond",
+    "country": "United States",
+    "iata": "RIC",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Norfolk Intl",
+    "city": "Norfolk",
+    "country": "United States",
+    "iata": "ORF",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Savannah Hilton Head Intl",
+    "city": "Savannah",
+    "country": "United States",
+    "iata": "SAV",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Nome",
+    "city": "Nome",
+    "country": "United States",
+    "iata": "OME",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "St Petersburg Clearwater Intl",
+    "city": "St. Petersburg",
+    "country": "United States",
+    "iata": "PIE",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "San Antonio Intl",
+    "city": "San Antonio",
+    "country": "United States",
+    "iata": "SAT",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Greater Rochester Intl",
+    "city": "Rochester",
+    "country": "United States",
+    "iata": "ROC",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Raleigh Durham Intl",
+    "city": "Raleigh-durham",
+    "country": "United States",
+    "iata": "RDU",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "James M Cox Dayton Intl",
+    "city": "Dayton",
+    "country": "United States",
+    "iata": "DAY",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Tucson Intl",
+    "city": "Tucson",
+    "country": "United States",
+    "iata": "TUS",
+    "timezone": "-7",
+    "dst": "N",
+    "tz": "America/Phoenix"
+  },
+  {
+    "name": "Theodore Francis Green State",
+    "city": "Providence",
+    "country": "United States",
+    "iata": "PVD",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Bob Hope",
+    "city": "Burbank",
+    "country": "United States",
+    "iata": "BUR",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Detroit Metro Wayne Co",
+    "city": "Detroit",
+    "country": "United States",
+    "iata": "DTW",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Tampa Intl",
+    "city": "Tampa",
+    "country": "United States",
+    "iata": "TPA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Adams Fld",
+    "city": "Little Rock",
+    "country": "United States",
+    "iata": "LIT",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Dallas Fort Worth Intl",
+    "city": "Dallas-Fort Worth",
+    "country": "United States",
+    "iata": "DFW",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Austin Bergstrom Intl",
+    "city": "Austin",
+    "country": "United States",
+    "iata": "AUS",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Mc Ghee Tyson",
+    "city": "Knoxville",
+    "country": "United States",
+    "iata": "TYS",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Lambert St Louis Intl",
+    "city": "St. Louis",
+    "country": "United States",
+    "iata": "STL",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Hartsfield Jackson Atlanta Intl",
+    "city": "Atlanta",
+    "country": "United States",
+    "iata": "ATL",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Gerald R Ford Intl",
+    "city": "Grand Rapids",
+    "country": "United States",
+    "iata": "GRR",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Fresno Yosemite Intl",
+    "city": "Fresno",
+    "country": "United States",
+    "iata": "FAT",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Nashville Intl",
+    "city": "Nashville",
+    "country": "United States",
+    "iata": "BNA",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Ralph Wien Mem",
+    "city": "Kotzebue",
+    "country": "United States",
+    "iata": "OTZ",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "La Guardia",
+    "city": "New York",
+    "country": "United States",
+    "iata": "LGA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Tallahassee Rgnl",
+    "city": "Tallahassee",
+    "country": "United States",
+    "iata": "TLH",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Jacksonville Intl",
+    "city": "Jacksonville",
+    "country": "United States",
+    "iata": "JAX",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Washington Dulles Intl",
+    "city": "Washington",
+    "country": "United States",
+    "iata": "IAD",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "General Mitchell Intl",
+    "city": "Milwaukee",
+    "country": "United States",
+    "iata": "MKE",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Portland Intl",
+    "city": "Portland",
+    "country": "United States",
+    "iata": "PDX",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Palm Beach Intl",
+    "city": "West Palm Beach",
+    "country": "United States",
+    "iata": "PBI",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Honolulu Intl",
+    "city": "Honolulu",
+    "country": "United States",
+    "iata": "HNL",
+    "timezone": "-10",
+    "dst": "N",
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "name": "Des Moines Intl",
+    "city": "Des Moines",
+    "country": "United States",
+    "iata": "DSM",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "San Diego Intl",
+    "city": "San Diego",
+    "country": "United States",
+    "iata": "SAN",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Ontario Intl",
+    "city": "Ontario",
+    "country": "United States",
+    "iata": "ONT",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Syracuse Hancock Intl",
+    "city": "Syracuse",
+    "country": "United States",
+    "iata": "SYR",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Chicago Midway Intl",
+    "city": "Chicago",
+    "country": "United States",
+    "iata": "MDW",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Norman Y Mineta San Jose Intl",
+    "city": "San Jose",
+    "country": "United States",
+    "iata": "SJC",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Denver Intl",
+    "city": "Denver",
+    "country": "United States",
+    "iata": "DEN",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Denver"
+  },
+  {
+    "name": "Philadelphia Intl",
+    "city": "Philadelphia",
+    "country": "United States",
+    "iata": "PHL",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Port Columbus Intl",
+    "city": "Columbus",
+    "country": "United States",
+    "iata": "CMH",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Ted Stevens Anchorage Intl",
+    "city": "Anchorage",
+    "country": "United States",
+    "iata": "ANC",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "Southwest Florida Intl",
+    "city": "Fort Myers",
+    "country": "United States",
+    "iata": "RSW",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "John F Kennedy Intl",
+    "city": "New York",
+    "country": "United States",
+    "iata": "JFK",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Charleston Afb Intl",
+    "city": "Charleston",
+    "country": "United States",
+    "iata": "CHS",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Reno Tahoe Intl",
+    "city": "Reno",
+    "country": "United States",
+    "iata": "RNO",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Ketchikan Intl",
+    "city": "Ketchikan",
+    "country": "United States",
+    "iata": "KTN",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "Birmingham Intl",
+    "city": "Birmingham",
+    "country": "United States",
+    "iata": "BHM",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Sacramento Intl",
+    "city": "Sacramento",
+    "country": "United States",
+    "iata": "SMF",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Buffalo Niagara Intl",
+    "city": "Buffalo",
+    "country": "United States",
+    "iata": "BUF",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Bradley Intl",
+    "city": "Windsor Locks",
+    "country": "United States",
+    "iata": "BDL",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Chicago Ohare Intl",
+    "city": "Chicago",
+    "country": "United States",
+    "iata": "ORD",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Fairbanks Intl",
+    "city": "Fairbanks",
+    "country": "United States",
+    "iata": "FAI",
+    "timezone": "-9",
+    "dst": "A",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "Palm Springs Intl",
+    "city": "Palm Springs",
+    "country": "United States",
+    "iata": "PSP",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Baltimore Washington Intl",
+    "city": "Baltimore",
+    "country": "United States",
+    "iata": "BWI",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Tulsa Intl",
+    "city": "Tulsa",
+    "country": "United States",
+    "iata": "TUL",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Long Island Mac Arthur",
+    "city": "Islip",
+    "country": "United States",
+    "iata": "ISP",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Minneapolis St Paul Intl",
+    "city": "Minneapolis",
+    "country": "United States",
+    "iata": "MSP",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Louis Armstrong New Orleans Intl",
+    "city": "New Orleans",
+    "country": "United States",
+    "iata": "MSY",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Will Rogers World",
+    "city": "Oklahoma City",
+    "country": "United States",
+    "iata": "OKC",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Albany Intl",
+    "city": "Albany",
+    "country": "United States",
+    "iata": "ALB",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "John Wayne Arpt Orange Co",
+    "city": "Santa Ana",
+    "country": "United States",
+    "iata": "SNA",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Key West Intl",
+    "city": "Key West",
+    "country": "United States",
+    "iata": "EYW",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Charlotte Douglas Intl",
+    "city": "Charlotte",
+    "country": "United States",
+    "iata": "CLT",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Mc Carran Intl",
+    "city": "Las Vegas",
+    "country": "United States",
+    "iata": "LAS",
+    "timezone": "-8",
+    "dst": "A",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Orlando Intl",
+    "city": "Orlando",
+    "country": "United States",
+    "iata": "MCO",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Suvarnabhumi Intl",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "iata": "BKK",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Bangkok"
+  },
+  {
+    "name": "Husein Sastranegara",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "iata": "BDO",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Adi Sutjipto",
+    "city": "Yogyakarta",
+    "country": "Indonesia",
+    "iata": "JOG",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Achmad Yani",
+    "city": "Semarang",
+    "country": "Indonesia",
+    "iata": "SRG",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Hang Nadim",
+    "city": "Batam",
+    "country": "Indonesia",
+    "iata": "BTH",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Sepinggan",
+    "city": "Balikpapan",
+    "country": "Indonesia",
+    "iata": "BPN",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Makassar"
+  },
+  {
+    "name": "Juanda",
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "iata": "SUB",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Jakarta"
+  },
+  {
+    "name": "Chiang Mai Intl",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "iata": "CNX",
+    "timezone": "7",
+    "dst": "U",
+    "tz": "Asia/Bangkok"
+  },
+  {
+    "name": "Bali Ngurah Rai",
+    "city": "Denpasar",
+    "country": "Indonesia",
+    "iata": "DPS",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Makassar"
+  },
+  {
+    "name": "Eleftherios Venizelos Intl",
+    "city": "Athens",
+    "country": "Greece",
+    "iata": "ATH",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Athens"
+  },
+  {
+    "name": "Chubu Centrair Intl",
+    "city": "Nagoya",
+    "country": "Japan",
+    "iata": "NGO",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Riga Intl",
+    "city": "Riga",
+    "country": "Latvia",
+    "iata": "RIX",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Riga"
+  },
+  {
+    "name": "Kaunas Intl",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "iata": "KUN",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Vilnius"
+  },
+  {
+    "name": "Vilnius Intl",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "iata": "VNO",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Vilnius"
+  },
+  {
+    "name": "Zvartnots",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "iata": "EVN",
+    "timezone": "4",
+    "dst": "E",
+    "tz": "Asia/Yerevan"
+  },
+  {
+    "name": "Tbilisi",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "iata": "TBS",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Asia/Tbilisi"
+  },
+  {
+    "name": "Aden Intl",
+    "city": "Aden",
+    "country": "Yemen",
+    "iata": "ADE",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Aden"
+  },
+  {
+    "name": "Sanaa Intl",
+    "city": "Sanaa",
+    "country": "Yemen",
+    "iata": "SAH",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Aden"
+  },
+  {
+    "name": "Allgau",
+    "city": "Memmingen",
+    "country": "Germany",
+    "iata": "FMM",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Ministro Pistarini",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "iata": "EZE",
+    "timezone": "-3",
+    "dst": "N",
+    "tz": "America/Cordoba"
+  },
+  {
+    "name": "Erbil Intl",
+    "city": "Erbil",
+    "country": "Iraq",
+    "iata": "EBL",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Asia/Baghdad"
+  },
+  {
+    "name": "Kansai",
+    "city": "Osaka",
+    "country": "Japan",
+    "iata": "KIX",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Son Sant Joan",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "iata": "PMI",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Darwin Intl",
+    "city": "Darwin",
+    "country": "Australia",
+    "iata": "DRW",
+    "timezone": "9.5",
+    "dst": "N",
+    "tz": "Australia/Darwin"
+  },
+  {
+    "name": "Piedmont Triad",
+    "city": "Greensboro",
+    "country": "United States",
+    "iata": "GSO",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Manchester Regional Airport",
+    "city": "Manchester NH",
+    "country": "United States",
+    "iata": "MHT",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Louisville International Airport",
+    "city": "Louisville",
+    "country": "United States",
+    "iata": "SDF",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Roanoke Regional",
+    "city": "Roanoke VA",
+    "country": "United States",
+    "iata": "ROA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Blue Grass",
+    "city": "Lexington KY",
+    "country": "United States",
+    "iata": "LEX",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Albuquerque International Sunport",
+    "city": "Albuquerque",
+    "country": "United States",
+    "iata": "ABQ",
+    "timezone": "-7",
+    "dst": "A",
+    "tz": "America/Denver"
+  },
+  {
+    "name": "Domododevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "iata": "DME",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Phoenix International",
+    "city": "Sanya",
+    "country": "China",
+    "iata": "SYX",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Lijiang Airport",
+    "city": "Lijiang",
+    "country": "China",
+    "iata": "LJG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Greenville-Spartanburg International",
+    "city": "Greenville",
+    "country": "United States",
+    "iata": "GSP",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Fort Wayne",
+    "city": "Fort Wayne",
+    "country": "United States",
+    "iata": "FWA",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Cedar Rapids",
+    "city": "Cedar Rapids",
+    "country": "United States",
+    "iata": "CID",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Peoria Regional",
+    "city": "Peoria",
+    "country": "United States",
+    "iata": "PIA",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "city": "Basel",
+    "country": "Switzerland",
+    "iata": "BSL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "Jinghong",
+    "city": "Jinghong",
+    "country": "China",
+    "iata": "JHG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Sharm El Sheikh Intl",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "iata": "SSH",
+    "timezone": "2",
+    "dst": "N",
+    "tz": "Africa/Cairo"
+  },
+  {
+    "name": "Jomo Kenyatta International",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "iata": "NBO",
+    "timezone": "3",
+    "dst": "N",
+    "tz": "Africa/Nairobi"
+  },
+  {
+    "name": "Bermuda Intl",
+    "city": "Bermuda",
+    "country": "Bermuda",
+    "iata": "BDA",
+    "timezone": "-4",
+    "dst": "A",
+    "tz": "Atlantic/Bermuda"
+  },
+  {
+    "name": "Quad City Intl",
+    "city": "Moline",
+    "country": "United States",
+    "iata": "MLI",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Honiara International",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "iata": "HIR",
+    "timezone": "11",
+    "dst": "U",
+    "tz": "Pacific/Guadalcanal"
+  },
+  {
+    "name": "Faa\\\\'a International",
+    "city": "Papeete",
+    "country": "French Polynesia",
+    "iata": "PPT",
+    "timezone": "-10",
+    "dst": "U",
+    "tz": "Pacific/Tahiti"
+  },
+  {
+    "name": "Tolmachevo",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "iata": "OVB",
+    "timezone": "7",
+    "dst": "N",
+    "tz": "Asia/Omsk"
+  },
+  {
+    "name": "Yinchuan",
+    "city": "Yinchuan",
+    "country": "China",
+    "iata": "INC",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Madeira",
+    "city": "Funchal",
+    "country": "Portugal",
+    "iata": "FNC",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/Lisbon"
+  },
+  {
+    "name": "Lhasa-Gonggar",
+    "city": "Lhasa",
+    "country": "China",
+    "iata": "LXA",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Windhoek Hosea Kutako International Airport ",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "iata": "WDH",
+    "timezone": "1",
+    "dst": "S",
+    "tz": "Africa/Windhoek"
+  },
+  {
+    "name": "Jinan",
+    "city": "Jinan",
+    "country": "China",
+    "iata": "TNA",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Changzhou",
+    "city": "Changzhou",
+    "country": "China",
+    "iata": "CZX",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Roschino",
+    "city": "Tyumen",
+    "country": "Russia",
+    "iata": "TJM",
+    "timezone": "6",
+    "dst": "N",
+    "tz": "Asia/Yekaterinburg"
+  },
+  {
+    "name": "Akron Canton Regional Airport",
+    "city": "Akron",
+    "country": "United States",
+    "iata": "CAK",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Huntsville International Airport-Carl T Jones Field",
+    "city": "Huntsville",
+    "country": "United States",
+    "iata": "HSV",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Kurumoch",
+    "city": "Samara",
+    "country": "Russia",
+    "iata": "KUF",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Ambouli International Airport",
+    "city": "Djibouti",
+    "country": "Djibouti",
+    "iata": "JIB",
+    "timezone": "3",
+    "dst": "U",
+    "tz": "Africa/Djibouti"
+  },
+  {
+    "name": "Meilan",
+    "city": "Haikou",
+    "country": "China",
+    "iata": "HAK",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Shenyang Taoxian International Airport",
+    "city": "Shenyang",
+    "country": "China",
+    "iata": "SHE",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Xuzhou Guanyin Airport",
+    "city": "Xuzhou",
+    "country": "China",
+    "iata": "XUZ",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Esfahan Shahid Beheshti Intl",
+    "city": "Isfahan",
+    "country": "Iran",
+    "iata": "IFN",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Yaounde Nsimalen",
+    "city": "Yaounde",
+    "country": "Cameroon",
+    "iata": "NSI",
+    "timezone": "1",
+    "dst": "N",
+    "tz": "Africa/Douala"
+  },
+  {
+    "name": "Conakry",
+    "city": "Conakry",
+    "country": "Guinea",
+    "iata": "CKY",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Conakry"
+  },
+  {
+    "name": "Baden Airpark",
+    "city": "Karlsruhe/Baden-Baden",
+    "country": "Germany",
+    "iata": "FKB",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Orlando Sanford Intl",
+    "city": "Sanford",
+    "country": "United States",
+    "iata": "SFB",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Niederrhein",
+    "city": "Weeze",
+    "country": "Germany",
+    "iata": "NRN",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Mactan Cebu Intl",
+    "city": "Cebu",
+    "country": "Philippines",
+    "iata": "CEB",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Manila"
+  },
+  {
+    "name": "Nizhny Novgorod",
+    "city": "Nizhniy Novgorod",
+    "country": "Russia",
+    "iata": "GOJ",
+    "timezone": "4",
+    "dst": "N",
+    "tz": "Europe/Moscow"
+  },
+  {
+    "name": "Phoenix-Mesa Gateway",
+    "city": "Mesa",
+    "country": "United States",
+    "iata": "AZA",
+    "timezone": "-7",
+    "dst": "N",
+    "tz": "America/Phoenix"
+  },
+  {
+    "name": "Jiuzhaigou Huanglong",
+    "city": "Jiuzhaigou",
+    "country": "China",
+    "iata": "JZH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Wai Sha Airport",
+    "city": "Shantou",
+    "country": "China",
+    "iata": "SWA",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Bodrum - Milas",
+    "city": "Bodrum",
+    "country": "Turkey",
+    "iata": "BJV",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Sabiha Gokcen",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "iata": "SAW",
+    "timezone": "2",
+    "dst": "E",
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "name": "Imam Khomeini",
+    "city": "Tehran",
+    "country": "Iran",
+    "iata": "IKA",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "Mashhad",
+    "city": "Mashhad",
+    "country": "Iran",
+    "iata": "MHD",
+    "timezone": "3.5",
+    "dst": "E",
+    "tz": "Asia/Tehran"
+  },
+  {
+    "name": "NW Arkansas Regional",
+    "city": "Bentonville",
+    "country": "United States",
+    "iata": "XNA",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Novyi Urengoy",
+    "city": "Novy Urengoy",
+    "country": "Russia",
+    "iata": "NUX",
+    "timezone": "6",
+    "dst": "N",
+    "tz": "Asia/Yekaterinburg"
+  },
+  {
+    "name": "Aktau",
+    "city": "Aktau",
+    "country": "Kazakhstan",
+    "iata": "SCO",
+    "timezone": "5",
+    "dst": "U",
+    "tz": "Asia/Oral"
+  },
+  {
+    "name": "Emelyanovo",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "iata": "KJA",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Krasnoyarsk"
+  },
+  {
+    "name": "Changchun",
+    "city": "Changchun",
+    "country": "China",
+    "iata": "CGQ",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Niigata",
+    "city": "Niigata",
+    "country": "Japan",
+    "iata": "KIJ",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "Praia International Airport",
+    "city": "Praia, Santiago Island",
+    "country": "Cape Verde",
+    "iata": "RAI",
+    "timezone": "-1",
+    "dst": "U",
+    "tz": "Atlantic/Cape_Verde"
+  },
+  {
+    "name": "El Aroui Airport",
+    "city": "El Aroui",
+    "country": "Morocco",
+    "iata": "NDR",
+    "timezone": "0",
+    "dst": "N",
+    "tz": "Africa/Casablanca"
+  },
+  {
+    "name": "Nantong Airport",
+    "city": "Nantong",
+    "country": "China",
+    "iata": "NTG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Khudzhand Airport",
+    "city": "Khudzhand",
+    "country": "Tajikistan",
+    "iata": "LBD",
+    "timezone": "5",
+    "dst": "U",
+    "tz": "Asia/Dushanbe"
+  },
+  {
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "city": "Guwahati",
+    "country": "India",
+    "iata": "GAU",
+    "timezone": "5.5",
+    "dst": "N",
+    "tz": "Asia/Calcutta"
+  },
+  {
+    "name": "Beijing Nanyuan Airport",
+    "city": "Beijing",
+    "country": "China",
+    "iata": "NAY",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Chifeng Airport",
+    "city": "Chifeng",
+    "country": "China",
+    "iata": "CIF",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Changzhi Airport",
+    "city": "Changzhi",
+    "country": "China",
+    "iata": "CIH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Baita Airport",
+    "city": "Hohhot",
+    "country": "China",
+    "iata": "HET",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Baotou Airport",
+    "city": "Baotou",
+    "country": "China",
+    "iata": "BAV",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Shijiazhuang Daguocun International Airport",
+    "city": "Shijiazhuang",
+    "country": "China",
+    "iata": "SJW",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Beihai Airport",
+    "city": "Beihai",
+    "country": "China",
+    "iata": "BHY",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Dayong Airport",
+    "city": "Dayong",
+    "country": "China",
+    "iata": "DYG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Zhuhai Airport",
+    "city": "Zhuhai",
+    "country": "China",
+    "iata": "ZUH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Zhanjiang Airport",
+    "city": "Zhanjiang",
+    "country": "China",
+    "iata": "ZHA",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Yichang Airport",
+    "city": "Yichang",
+    "country": "China",
+    "iata": "YIH",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Xining Caojiabu Airport",
+    "city": "Xining",
+    "country": "China",
+    "iata": "XNN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Jingdezhen Airport",
+    "city": "Jingdezhen",
+    "country": "China",
+    "iata": "JDZ",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Lianyungang Airport",
+    "city": "Lianyungang",
+    "country": "China",
+    "iata": "LYG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Shubuling Airport",
+    "city": "Linyi",
+    "country": "China",
+    "iata": "LYI",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Quanzhou Airport",
+    "city": "Quanzhou",
+    "country": "China",
+    "iata": "JJN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Tunxi International Airport",
+    "city": "Huangshan",
+    "country": "China",
+    "iata": "TXN",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Wuxi Airport",
+    "city": "Wuxi",
+    "country": "China",
+    "iata": "WUX",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Nanping Wuyishan Airport",
+    "city": "Wuyishan",
+    "country": "China",
+    "iata": "WUS",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Wenzhou Yongqiang Airport",
+    "city": "Wenzhou",
+    "country": "China",
+    "iata": "WNZ",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Yancheng Airport",
+    "city": "Yancheng",
+    "country": "China",
+    "iata": "YNZ",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Yiwu Airport",
+    "city": "Yiwu",
+    "country": "China",
+    "iata": "YIW",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Mianyang Airport",
+    "city": "Mianyang",
+    "country": "China",
+    "iata": "MIG",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Zhangxiao",
+    "city": "Yuncheng",
+    "country": "China",
+    "iata": "YCU",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Lanzhou Airport",
+    "city": "Lanzhou",
+    "country": "China",
+    "iata": "LHW",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Ordos Ejin Horo",
+    "city": "Dongsheng",
+    "country": "China",
+    "iata": "DSN",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "Charlotte County-Punta Gorda Airport",
+    "city": "Punta Gorda",
+    "country": "United States",
+    "iata": "PGD",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Enfidha - Zine El Abidine Ben Ali International Airport",
+    "city": "Enfidha",
+    "country": "Tunisia",
+    "iata": "NBE",
+    "timezone": "1",
+    "dst": "U",
+    "tz": "Africa/Tunis"
+  },
+  {
+    "name": "Dubai Al Maktoum",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "iata": "DWC",
+    "timezone": "4",
+    "dst": "U",
+    "tz": "Asia/Dubai"
+  },
+  {
+    "name": "Lombok International Airport",
+    "city": "Praya",
+    "country": "Indonesia",
+    "iata": "LOP",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Makassar"
+  },
+  {
+    "name": "Warsaw Modlin",
+    "city": "Warsaw",
+    "country": "Poland",
+    "iata": "WMI",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Warsaw"
+  },
+  {
+    "name": "All Airports",
+    "city": "Paris",
+    "country": "France",
+    "iata": "PAR",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Paris"
+  },
+  {
+    "name": "All Airports",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LON",
+    "timezone": "0",
+    "dst": "E",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "All Airports",
+    "city": "New York",
+    "country": "United States",
+    "iata": "NYC",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "All Airports",
+    "city": "Chicago",
+    "country": "United States",
+    "iata": "CHI",
+    "timezone": "-6",
+    "dst": "A",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "All Airports",
+    "city": "Tokyo",
+    "country": "Japan",
+    "iata": "TYO",
+    "timezone": "9",
+    "dst": "U",
+    "tz": "Asia/Tokyo"
+  },
+  {
+    "name": "All Airports",
+    "city": "Beijing",
+    "country": "China",
+    "iata": "BJS",
+    "timezone": "8",
+    "dst": "U",
+    "tz": "Asia/Chongqing"
+  },
+  {
+    "name": "All Airports",
+    "city": "Milan",
+    "country": "Italy",
+    "iata": "MIL",
+    "timezone": "1",
+    "dst": "E",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "All Airports",
+    "city": "Washington",
+    "country": "United States",
+    "iata": "WAS",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "All Airports",
+    "city": "Montreal",
+    "country": "Canada",
+    "iata": "YMQ",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "All Airports",
+    "city": "Toronto",
+    "country": "Canada",
+    "iata": "YTO",
+    "timezone": "-5",
+    "dst": "A",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Yangzhou Taizhou Airport",
+    "city": "Yangzhou",
+    "country": "China",
+    "iata": "YTY",
+    "timezone": "8",
+    "dst": "N",
+    "tz": "Asia/Chongqing"
+  }
+]
