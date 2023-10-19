@@ -129,7 +129,6 @@ const parseData = (response) => {
         seg.carrierCode = segmentRaw.carrierCode;
         seg.flightNumber = segmentRaw.number;
         seg.duration = segmentRaw.duration;
-        console.log(segmentRaw);
         pkg.segments.push(seg);
       }
     }
