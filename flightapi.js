@@ -46,7 +46,12 @@ const formatDate = (stringDate) => {
   return dt.toISOString().split("T")[0];
 };
 
-async function getFlightOffersData(origin, destination, departure) {
+async function getFlightOffersData(
+  origin,
+  destination,
+  departureDate,
+  departureTime
+) {
   const bearerToken = await getBearerToken();
   const reqBody = {
     currencyCode: "CAD",
@@ -56,7 +61,8 @@ async function getFlightOffersData(origin, destination, departure) {
         originLocationCode: origin,
         destinationLocationCode: destination,
         departureDateTimeRange: {
-          date: departure,
+          date: departureDate,
+          time: departureTime,
         },
       },
     ],
@@ -123,7 +129,7 @@ const parseData = (response) => {
         seg.carrierCode = segmentRaw.carrierCode;
         seg.flightNumber = segmentRaw.number;
         seg.duration = segmentRaw.duration;
-
+        console.log(segmentRaw);
         pkg.segments.push(seg);
       }
     }
@@ -132,8 +138,15 @@ const parseData = (response) => {
   return offers;
 };
 
-export const getFlightOffers = async (origin, destination, departure) => {
-  return parseData(await getFlightOffersData(origin, destination, departure));
+export const getFlightOffers = async (
+  origin,
+  destination,
+  departureDate,
+  departureTime
+) => {
+  return parseData(
+    await getFlightOffersData(origin, destination, departureDate, departureTime)
+  );
 };
 
 // parseData(await getFlightOffers());

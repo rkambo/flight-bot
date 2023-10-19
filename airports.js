@@ -26,10 +26,11 @@ import * as fs from "fs";
 // });
 
 export function getAirport(city) {
+  city = city.toLowerCase();
   let ap;
 
   for (const code of airports) {
-    if (code.city == city) {
+    if (code.city.toLowerCase() == city) {
       if (code.name == "All Airports") {
         ap = code;
         break;
@@ -39,4 +40,14 @@ export function getAirport(city) {
     }
   }
   return ap;
+}
+
+export function getCity(airportCode) {
+  for (const code of airports) {
+    if (code.iata == airportCode) {
+      return code.city;
+    }
+  }
+
+  return null;
 }
