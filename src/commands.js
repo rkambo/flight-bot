@@ -1,7 +1,7 @@
 import { SlashCommandBuilder, EmbedBuilder, hyperlink, bold } from "discord.js";
 import { getAirport } from "./airports.js";
 import { getFlightOffers } from "./flightapi.js";
-import { existInputErrors, buildEmbeds} from "./utils.js"
+import { existInputErrors, buildEmbeds } from "./utils.js";
 import dayjs from "dayjs";
 
 export const ping = {

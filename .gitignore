@@ -6,5 +6,5 @@ config.json
 .env
 
 /discord-example-app-main
-
+/references
 test.js
