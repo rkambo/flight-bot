@@ -1,3 +1,9 @@
+/**
+ * Index.js
+ *
+ * Entry file that gets executed
+ */
+
 import "dotenv/config";
 // Require the necessary discord.js classes
 import { Client, Collection, Events, GatewayIntentBits } from "discord.js";

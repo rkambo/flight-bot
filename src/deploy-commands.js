@@ -1,3 +1,9 @@
+/**
+ * Deploy-Commands.js
+ *
+ * Initially runs as a standalone file to load the commands
+ * into Discord
+ */
 import { REST, Routes } from "discord.js";
 import "dotenv/config";
 import { ping } from "./commands.js";

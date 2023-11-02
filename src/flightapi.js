@@ -1,3 +1,8 @@
+/**
+ * Flightapi.js
+ *
+ * Makes calls to the Amadeus API for flight information
+ */
 import "dotenv/config";
 import fetch from "node-fetch";
 
@@ -8,6 +13,13 @@ class HTTPResponseError extends Error {
   }
 }
 
+/**
+ *
+ * @param {Response} response
+ * @returns Response
+ *
+ * Checks if API response is valid
+ */
 const checkStatus = (response) => {
   if (response.ok) {
     // response.status >= 200 && response.status < 300
@@ -17,6 +29,11 @@ const checkStatus = (response) => {
   }
 };
 
+/**
+ * Retrieves the access token from the Amadeus API
+ *
+ * @returns String
+ */
 async function getBearerToken() {
   const params = new URLSearchParams();
   params.append("grant_type", "client_credentials");
@@ -38,14 +55,16 @@ async function getBearerToken() {
   }
 }
 
-const formatDate = (stringDate) => {
-  let dt = new Date(stringDate);
-  dt.toISOString().split("T")[0];
-  const offset = dt.getTimezoneOffset();
-  dt = new Date(dt.getTime() - offset * 60 * 1000);
-  return dt.toISOString().split("T")[0];
-};
-
+/**
+ *
+ * @param {String} origin
+ * @param {String} destination
+ * @param {String} departureDate
+ * @param {String} departureTime
+ * @returns String
+ *
+ * Makes callout to API for flight offer information
+ */
 async function getFlightOffersData(
   origin,
   destination,
@@ -104,6 +123,13 @@ async function getFlightOffersData(
   }
 }
 
+/**
+ *
+ * @param {String} response
+ * @returns String[]
+ *
+ * Builds an array of offers in a format usable by the discord commands
+ */
 const parseData = (response) => {
   const offers = [];
   if (!response) {
@@ -138,6 +164,16 @@ const parseData = (response) => {
   return offers;
 };
 
+/**
+ *
+ * @param {String} origin
+ * @param {String} destination
+ * @param {String} departureDate
+ * @param {String} departureTime
+ * @returns
+ *
+ * Wraps the flight information API call and exposes the function to be used by Discord
+ */
 export const getFlightOffers = async (
   origin,
   destination,
@@ -148,5 +184,3 @@ export const getFlightOffers = async (
     await getFlightOffersData(origin, destination, departureDate, departureTime)
   );
 };
-
-// parseData(await getFlightOffers());

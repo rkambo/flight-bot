@@ -1,3 +1,8 @@
+/**
+ * Utils.js
+ *
+ * Utility methods
+ */
 import { getAirport, getCity } from "./airports.js";
 import dayjs from "dayjs";
 import { EmbedBuilder } from "discord.js";
@@ -9,6 +14,13 @@ const inputErrors = {
   INVALIDDEST: "The destination city is invalid!",
 };
 
+/**
+ *
+ * @param {*} offers
+ * @returns EmbedBuilder[]
+ *
+ * Builds the embeds for Discord messages from the flight offers
+ */
 export const buildEmbeds = (offers) => {
   const embedArr = [];
   for (const offer of offers) {
@@ -88,6 +100,15 @@ export const buildEmbeds = (offers) => {
   return embedArr;
 };
 
+/**
+ *
+ * @param {String} origin
+ * @param {String} destination
+ * @param {String} date
+ * @returns String
+ *
+ * Validates user input
+ */
 export const existInputErrors = (origin, destination, date) => {
   if (isNaN(dayjs(date))) return inputErrors.INVALIDDATE;
   if (dayjs(date) < Date.now()) return inputErrors.PASTDATE;
@@ -96,10 +117,24 @@ export const existInputErrors = (origin, destination, date) => {
   return "";
 };
 
+/**
+ *
+ * @param {String} duration
+ * @returns String
+ *
+ * Formats duration string for readibility
+ */
 const formatDuration = (duration) => {
   return duration.replace("PT", "").replace("H", "H ");
 };
 
+/**
+ *
+ * @param {String} datetime
+ * @returns String
+ *
+ * Formats date time string for readibility
+ */
 const formatTimestamp = (datetime) => {
   return dayjs(datetime).format("MMM DD, YYYY \nh:mm a");
 };

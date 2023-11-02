@@ -1,8 +1,17 @@
+/**
+ *  Airports.js
+ *
+ *  Utility functions to interface with the json files in the asset folder
+ *
+ */
 import iataCodes from "../assets/airports.json" assert { type: "json" };
-import activeAirports from "../assets/activeairports.json" assert { type: "json" };
+import activeAirports from "../assets/activeAirports.json" assert { type: "json" };
 import airports from "../assets/newAirports.json" assert { type: "json" };
 import * as fs from "fs";
 
+/**
+ * Checks the codes in activeAirports.json and adds the related value from airports.json to newAirports.json
+ */
 export const writeToAirportFile = () => {
   const newAirportsJson = [];
   for (const code of iataCodes) {
@@ -25,6 +34,13 @@ export const writeToAirportFile = () => {
   });
 };
 
+/**
+ *
+ * @param {String} city
+ * @returns String
+ *
+ * Gets the airport name corresponding to the passed in city
+ */
 export function getAirport(city) {
   city = city.toLowerCase();
   let ap;
@@ -42,6 +58,13 @@ export function getAirport(city) {
   return ap;
 }
 
+/**
+ *
+ * @param {String} airportCode
+ * @returns
+ *
+ * Gets the city name corresponding to the passed in airport
+ */
 export function getCity(airportCode) {
   for (const code of airports) {
     if (code.iata == airportCode) {

@@ -1,10 +1,21 @@
+/**
+ * Commands.js
+ *
+ * File of commands to load into Discord
+ */
+
 import { SlashCommandBuilder, EmbedBuilder, hyperlink, bold } from "discord.js";
 import { getAirport } from "./airports.js";
 import { getFlightOffers } from "./flightapi.js";
 import { existInputErrors, buildEmbeds } from "./utils.js";
 import dayjs from "dayjs";
 
-export const ping = {
+/**
+ * Fly Command
+ *
+ * Prompts the user to enter travel details and subsequently calls the Amadeus API
+ */
+export const fly = {
   data: new SlashCommandBuilder()
     .setName("fly")
     .setDescription("Let's fly!")
