@@ -17,7 +17,8 @@
     "nodemon": "^3.0.1"
   },
   "scripts": {
-    "test": "node src/deploy-commands.js && nodemon src/index"
+    "test": "node src/deploy-commands.js && nodemon src/index",
+    "start": "node src/deploy-commands.js && node src/index"
   },
   "author": "",
   "license": "ISC"

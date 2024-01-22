@@ -6,13 +6,13 @@
  */
 import { REST, Routes } from "discord.js";
 import "dotenv/config";
-import { ping } from "./commands.js";
+import { fly } from "./commands.js";
 
 const commands = [];
 // Grab all the command files from the commands directory you created earlier
 
-if ("data" in ping && "execute" in ping) {
-  commands.push(ping.data.toJSON());
+if ("data" in fly && "execute" in fly) {
+  commands.push(fly.data.toJSON());
 } else {
   console.log(
     `[WARNING] The command is missing a required "data" or "execute" property.`
